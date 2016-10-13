@@ -4,6 +4,7 @@ machine:
 
 test:
  override:
+  - echo "?"
 
 deployment:
  producution:
