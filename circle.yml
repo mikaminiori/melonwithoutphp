@@ -1,0 +1,16 @@
+machine:
+ timezone:
+  Asia/Tokyo
+
+test:
+ override:
+
+deployment:
+ producution:
+  branch: master
+  commands:
+   - aws s3 sync / s3://dontforgetmeplsmelon/ --delete
+ staging:
+  branch: staging
+  commands:
+   - aws s3 sync / s3://melonwithoutphp/ delete
