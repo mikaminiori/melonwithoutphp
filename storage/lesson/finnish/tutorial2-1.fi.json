@@ -1,0 +1,50 @@
+﻿{
+  "title": "Aihe2",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Nyt opetan sinulle miten voit hallita nuotteja." 
+		},
+		{
+			"person": "child",
+			"speech": "Osaan jo! Voin venyttää nuottia pitämällä hiiren vasenta nappia pohjassa!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Hyvä juttu, mutta se ei ole ainoa nuottien salaisuus."
+		},
+		{
+			"person": "child",
+			"speech": "Ai, no mikä sitten?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Voit myös siirtää nuottien paikkaa sävelasteikolla."
+		},
+		{
+			"person": "teacher",
+			"speech": "Mutta ole varovainen että nuotit eivät mene keskenään päällekäin."
+		},
+		{
+			"person": "child",
+			"speech": "Ahaa, huomasin myös että nuotista kuuluu ääni kun se vaihtaa sävelkorkeutta."
+		},
+		{
+			"person": "teacher",
+			"speech": "Aivan ja kaksoisklikkaamalla nuottia voit halutessasi venyttää sitä."
+		},
+		{
+			"person": "child",
+			"speech": "Ja kaikilla noilla eri tavoilla voin siis tehdä erilaisia nuotteja!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Juuri niin! Kirjoitappa nyt siis erilaisia nuotteja!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":4,"extension":3}],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe2-2",
+  "passNext": true
+}
+

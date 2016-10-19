@@ -1,0 +1,38 @@
+﻿{
+  "title": "Tutorial5-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "child",
+			"speech": "I want to make longer music!"
+		},
+		{
+			"person": "teacher",
+			"speech": "You can push the Left and Right button to scroll the score as well!"
+		},
+		{
+			"person": "child",
+			"speech": "Wow! Now I can make longer music!!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Please note that you can see only 2 measures at once, so there are notes which you can't see."
+		},
+		{
+			"person": "child",
+			"speech": "When I double click Left button, I can return the first position. If it's Right button, I can go to the last note position."
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! This is the end of Aihes! So, Let's make the music freely!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[{"pitch":"A3","unitNote":8,"start":8,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":6,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[],"E3":[{"pitch":"E3","unitNote":8,"start":20,"extension":1},{"pitch":"E3","unitNote":8,"start":22,"extension":1}],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":28,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": null,
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 16, 19 ],
+    [24, 27]
+  ]
+}

@@ -1,1 +1,4 @@
-
+privatekey/
+*.csproj*
+web*.config
+~

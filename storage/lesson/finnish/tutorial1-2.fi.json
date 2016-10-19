@@ -1,0 +1,53 @@
+﻿{
+  "title": "Aihe1-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "OK, jatketaanpa sitten säveltämistä!"
+		},
+		{
+			"person": "child",
+			"speech": "Säveltämistä?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Nyt sävelasteikolta löytyy sekä jo tuttuja valkoisia nuotteja, mutta myäs sinisiä nuotteja."
+		},
+		{
+			"person": "child",
+			"speech": "Voiko sinisillekin nuoteille säveltää?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Kyllä voi, mutta valitse yksi nuotti sinisellä merkitystä alueesta."
+		},
+		{
+			"person": "teacher",
+			"speech": "Voit laittaa siniselle useampiakin nuotteja jos tahdot."
+		},
+		{
+			"person": "child",
+			"speech": "Joo! Laitan sinne monta nuottia!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Mieti kuitenkin ensin mikä nuotti olisi sopiva."
+		},
+		{
+			"person": "child",
+			"speech": "Joo.. muuten sävellys ei kuullosta niin hyvältä!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Juuri niin! Yritäpä nyt säveltää myös siniselle alueelle!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":0}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe2",
+  "passNext": true,
+  "unitNote": 8,
+  "blank": [
+    [ 6, 6 ]
+  ]
+}

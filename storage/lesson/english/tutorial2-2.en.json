@@ -1,0 +1,50 @@
+﻿{
+  "title": "Tutorial2-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Next, I'll teach you how to erase the notes."
+		},
+		{
+			"person": "child",
+			"speech": "I think I can use this button which has eraser picture."
+		},
+		{
+			"person": "teacher",
+			"speech": "You are clever. When you push the eraser button, you can change the mode from Pencil mode to Eraser mode."
+		},
+		{
+			"person": "child",
+			"speech": "And then, I can erase the notes when I click them. "
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! Moreover, you can erase the notes while you push the left button and touch the notes."
+		},
+		{
+			"person": "child",
+			"speech": "I see! It's fun to erase the notes!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Don't be in a trance. Otherwise you will erase all of the notes!"
+		},
+		{
+			"person": "child",
+			"speech": "OK, I can't make music without writing notes!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Let's make music using Eraser Mode well!" 
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":3},{"pitch":"G3","unitNote":8,"start":10,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":8,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 4, 7 ],
+    [12, 15]
+  ]
+}

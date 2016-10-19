@@ -1,0 +1,46 @@
+﻿{
+  "title": "Oppitunti3-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Seuraavaksi opetan sinulle lauseke aloittamisen."
+		},
+		{
+			"person": "child",
+			"speech": "Miten lauseke aloitetaan? Haluaisin että se olisi tasainen ja luonnollinen."
+		},
+		{
+			"person": "teacher",
+			"speech": "Yritä aloittaa FA → SOL → LA → SI → DO. Viimeinen C on tahdin alku."
+		},
+		{
+			"person": "child",
+			"speech": "Wau! Tuo on tosiaan tasainen ja luonnollinen."
+		},
+		{
+			"person": "child",
+			"speech": "Seuraavaksi haluan tehdä tästä lauseke voimakkaan ja vahvan. Miten alkua pitäisi muuttaa?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Seuraavaksi haluan tehdä tästä lauseke voimakkaan ja vahvan. Miten alkua pitäisi muuttaa?"
+		},
+		{
+			"person": "child",
+			"speech": "Aloita lauseke taaksepäin tahdin alusta."
+		},
+				{
+			"person": "teacher",
+			"speech": "Ymmärrän ensimmäinen tauko tekee voimakkaan ja vahvan lauseke."
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[{"pitch":"D4","unitNote":8,"start":11,"extension":2}],"C4":[{"pitch":"C4","unitNote":8,"start":8,"extension":2},{"pitch":"C4","unitNote":8,"start":16,"extension":7},{"pitch":"C4","unitNote":8,"start":25,"extension":1},{"pitch":"C4","unitNote":8,"start":32,"extension":7},{"pitch":"C4","unitNote":8,"start":48,"extension":2},{"pitch":"C4","unitNote":8,"start":56,"extension":7},{"pitch":"C4","unitNote":8,"start":72,"extension":7}],"B3":[{"pitch":"B3","unitNote":8,"start":7,"extension":0}],"A3":[{"pitch":"A3","unitNote":8,"start":6,"extension":0}],"G3":[{"pitch":"G3","unitNote":8,"start":5,"extension":0},{"pitch":"G3","unitNote":8,"start":14,"extension":1},{"pitch":"G3","unitNote":8,"start":27,"extension":1},{"pitch":"G3","unitNote":8,"start":29,"extension":0},{"pitch":"G3","unitNote":8,"start":30,"extension":1},{"pitch":"G3","unitNote":8,"start":51,"extension":1},{"pitch":"G3","unitNote":8,"start":53,"extension":0},{"pitch":"G3","unitNote":8,"start":54,"extension":1}],"F3":[{"pitch":"F3","unitNote":8,"start":4,"extension":0}],"E3":[],"D3":[],"C3":[],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Oppitunti4",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 44, 47 ],
+    [ 64, 71 ]
+  ]
+}

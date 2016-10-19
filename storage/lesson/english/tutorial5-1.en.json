@@ -1,0 +1,37 @@
+﻿{
+  "title": "Tutorial5",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "child",
+			"speech": "I want to make music using more high pitch or low pitch!"
+		},
+		{
+			"person": "teacher",
+			"speech": "All right. You can push the Up and Down buttons on the left side of the score."
+		},
+		{
+			"person": "child",
+			"speech": "Wow! I'm surprised such big score!"
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! Now you can make more high or low sounds!"
+		},
+		{
+			"person": "teacher",
+			"speech": "However, the pitches you can see at once are only 7. Please note that there are notes which you can't see."
+		},
+		{
+			"person": "child",
+			"speech": "Up and Down buttons... I found that I can move to topmost or bottommost!"
+		},
+		{
+			"person": "teacher",
+			"speech": "You found that well! Let's make music using more high pitch or low pitch!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[{"pitch":"E4","unitNote":8,"start":8,"extension":1}],"D4":[{"pitch":"D4","unitNote":8,"start":10,"extension":1}],"C4":[{"pitch":"C4","unitNote":8,"start":12,"extension":3}],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":4,"extension":3}],"B2":[{"pitch":"B2","unitNote":8,"start":3,"extension":0}],"A2":[{"pitch":"A2","unitNote":8,"start":0,"extension":2}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial5-2",
+  "passNext": false
+}

@@ -1,0 +1,121 @@
+﻿{
+  "使い方1": {
+    "url": "storage/lesson/japanese/tutorial1-1.ja.json",
+    "description": "MelOnでの学習のしかた。",
+    "public": true
+  },
+
+  "使い方1-2": {
+    "url": "storage/lesson/japanese/tutorial1-2.ja.json",
+    "description": "MelOnでの学習のしかた。",
+    "public": false
+  },
+
+  "使い方2": {
+    "url": "storage/lesson/japanese/tutorial2-1.ja.json",
+    "description": "音符の書きかた",
+    "public": true
+  },
+
+  "使い方2-2": {
+    "url": "storage/lesson/japanese/tutorial2-2.ja.json",
+    "description": "音符の書きかた",
+    "public": false
+  },
+
+  "使い方3": {
+    "url": "storage/lesson/japanese/tutorial3-1.ja.json",
+    "description": "楽器と速さの変えかた",
+    "public": true
+  },
+
+  "使い方3-2": {
+    "url": "storage/lesson/japanese/tutorial3-2.ja.json",
+    "description": "楽器と速さの変えかた",
+    "public": false
+  },
+
+  "使い方4": {
+    "url": "storage/lesson/japanese/tutorial4-1.ja.json",
+    "description": "保存と読み込みのやりかた",
+    "public": true
+  },
+
+  "使い方4-2": {
+    "url": "storage/lesson/japanese/tutorial4-2.ja.json",
+    "description": "保存と読み込みのやりかた",
+    "public": false
+  },
+
+  "使い方5": {
+    "url": "storage/lesson/japanese/tutorial5-1.ja.json",
+    "description": "もっと大きな音楽をつくるには",
+    "public": true
+  },
+
+	"使い方5-2": {
+		"url": "storage/lesson/japanese/tutorial5-2.ja.json",
+		"description": "もっと大きな音楽をつくるには",
+		"public": false
+	},
+
+	"音楽のつくり方1": {
+    "url": "storage/lesson/japanese/lesson1-1.ja.json",
+    "description": "1音だけで、リズムをつくってみよう",
+    "public": true
+  },
+
+  "音楽のつくり方1-2": {
+    "url": "storage/lesson/japanese/lesson1-2.ja.json",
+    "description": "1音だけで、リズムをつくってみよう",
+    "public": false
+  },
+
+  "音楽のつくり方2": {
+    "url": "storage/lesson/japanese/lesson2-1.ja.json",
+    "description": "2音だけでメロディをつくってみよう",
+    "public": true
+  },
+
+  "音楽のつくり方2-2": {
+    "url": "storage/lesson/japanese/lesson2-2.ja.json",
+    "description": "2音だけでメロディをつくってみよう",
+    "public": false
+  },
+
+  "音楽のつくり方3": {
+    "url": "storage/lesson/japanese/lesson3-1.ja.json",
+    "description": "7種類の音でメロディをつくってみよう",
+    "public": true
+  },
+
+  "音楽のつくり方3-2": {
+    "url": "storage/lesson/japanese/lesson3-2.ja.json",
+    "description": "7種類の音でメロディをつくってみよう",
+    "public": false
+  },
+
+  "音楽のつくり方4": {
+    "url": "storage/lesson/japanese/lesson4-1.ja.json",
+    "description": "ハーモニーをつくってみよう",
+    "public": true
+  },
+
+  "音楽のつくり方4-2": {
+    "url": "storage/lesson/japanese/lesson4-2.ja.json",
+    "description": "ハーモニーをつくってみよう",
+    "public": false
+  },
+
+  "音楽のつくり方5": {
+    "url": "storage/lesson/japanese/lesson5-1.ja.json",
+    "description": "くりかえしで音楽をつくってみよう",
+    "public": true
+  },
+
+  "音楽のつくり方5-2": {
+    "url": "storage/lesson/japanese/lesson5-2.ja.json",
+    "description": "くりかえしで音楽をつくってみよう",
+    "public":  false
+  }
+}

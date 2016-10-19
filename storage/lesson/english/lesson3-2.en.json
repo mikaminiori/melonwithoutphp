@@ -1,0 +1,46 @@
+﻿{
+  "title": "Lesson3-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Next, I'll teach you about beginning of phrase."
+		},
+		{
+			"person": "child",
+			"speech": "I wonder how to begin this phrase... I wanna make this phrase smooth and natural."
+		},
+		{
+			"person": "teacher",
+			"speech": "Try to begin F → G → A → B → C. And the last C is beginning of measure."
+		},
+		{
+			"person": "child",
+			"speech": "Wow, it's really smooth and natural!"
+		},
+		{
+			"person": "child",
+			"speech": "Then, I wanna make this phrase strong and powerful. How should I make beginning of this phrase?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Try to begin the phrase backward from the beginning of measure."
+		},
+		{
+			"person": "child",
+			"speech": "I see, the first rest makes strong and powerful the phrase."
+		},
+				{
+			"person": "teacher",
+			"speech": "That's right! Let's think about the various beginning of phrase!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[{"pitch":"D4","unitNote":8,"start":11,"extension":2}],"C4":[{"pitch":"C4","unitNote":8,"start":8,"extension":2},{"pitch":"C4","unitNote":8,"start":16,"extension":7},{"pitch":"C4","unitNote":8,"start":25,"extension":1},{"pitch":"C4","unitNote":8,"start":32,"extension":7},{"pitch":"C4","unitNote":8,"start":48,"extension":2},{"pitch":"C4","unitNote":8,"start":56,"extension":7},{"pitch":"C4","unitNote":8,"start":72,"extension":7}],"B3":[{"pitch":"B3","unitNote":8,"start":7,"extension":0}],"A3":[{"pitch":"A3","unitNote":8,"start":6,"extension":0}],"G3":[{"pitch":"G3","unitNote":8,"start":5,"extension":0},{"pitch":"G3","unitNote":8,"start":14,"extension":1},{"pitch":"G3","unitNote":8,"start":27,"extension":1},{"pitch":"G3","unitNote":8,"start":29,"extension":0},{"pitch":"G3","unitNote":8,"start":30,"extension":1},{"pitch":"G3","unitNote":8,"start":51,"extension":1},{"pitch":"G3","unitNote":8,"start":53,"extension":0},{"pitch":"G3","unitNote":8,"start":54,"extension":1}],"F3":[{"pitch":"F3","unitNote":8,"start":4,"extension":0}],"E3":[],"D3":[],"C3":[],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson4",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 44, 47 ],
+    [ 64, 71 ]
+  ]
+}

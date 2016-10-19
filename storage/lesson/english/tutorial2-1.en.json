@@ -1,0 +1,50 @@
+﻿{
+  "title": "Tutorial2",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Now, I'll teach you how to control notes. " 
+		},
+		{
+			"person": "child",
+			"speech": "I know! I can stretch the note to move the mouse while pushing down the left button on the mouse!"
+		},
+		{
+			"person": "teacher",
+			"speech": "You know that very well! But actuary, it's not only secrets about notes."
+		},
+		{
+			"person": "child",
+			"speech": "Oh, what are they?"
+		},
+		{
+			"person": "teacher",
+			"speech": "You can change the position of the notes which is already written on the score."
+		},
+		{
+			"person": "teacher",
+			"speech": "But, be careful that you can not make notes overlap each other."
+		},
+		{
+			"person": "child",
+			"speech": "I see, and I found that the note makes sound when it changes its pitch."
+		},
+		{
+			"person": "teacher",
+			"speech": "Moreover, you can double click the note to stretch the note."
+		},
+		{
+			"person": "child",
+			"speech": "By means of them, I can write many kinds of notes!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Yes! Let's write many kinds of notes!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":4,"extension":3}],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial2-2",
+  "passNext": true
+}
+

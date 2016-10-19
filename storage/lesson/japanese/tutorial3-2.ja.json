@@ -1,0 +1,45 @@
+﻿{
+  "title": "使い方3-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "child",
+      "speech": "ほかに、表現のはばを広げる方法はあるんですか？" 
+    },
+    {
+      "person": "teacher",
+      "speech": "うん、音楽を再生するはやさを変えることができるよ。"
+    },
+    {
+      "person": "teacher",
+      "speech": "右上に、「ふつう」と書いてあるね。"
+    },
+    {
+      "person": "child",
+      "speech": "はい。"
+    },
+    {
+      "person": "teacher",
+      "speech": "これの右にある矢印(→)を押すと、再生のはやさがはやくなって、左にあるやじるし(←)を押すと、再生のはやさがおそくなるよ。"
+    },
+    {
+      "person": "child",
+      "speech": "ほんとうだ～！　音楽のはやさを変えることでも、音楽の聞こえ方が大きく違うね。"
+    },
+    {
+      "person": "child",
+      "speech": "はやいと、いそがしかったり、はげしい感じで、おそいと、やさしかったり、おちついた感じがするね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "そうだね。さあ、君も再生のはやさを変えてみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":0,"extension":3}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":0}],"A3":[{"pitch":"A3","unitNote":8,"start":5,"extension":0}],"G3":[{"pitch":"G3","unitNote":8,"start":6,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方4",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 8, 15 ]
+  ]
+}

@@ -1,0 +1,45 @@
+﻿{
+  "title": "Aihe4-2",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Tällä kertaa opetallaan lataaminen."
+		},
+		{
+			"person": "child",
+			"speech": "Mitä lataaminen tarkoittaa?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Lataamalla löydät sen sävellyksen jonka olet viimeksi tallentanut."
+		},
+		{
+			"person": "teacher",
+			"speech": "Voit ladata sävellyksen painamalla ↑ nappia sävelasteikon alla."
+		},
+		{
+			"person": "child",
+			"speech": "Tämähän on ihan sama sävellys kuin se jonka tein aikaisemmin!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Niin on! Eikös ollutkin helppoa!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Muista että voit tallentaa musiikkia vain tällä tietokoneella. Et voi siis ladata samaa musiikkia jollekin toiselle koneelle."
+		},
+		{
+			"person": "child",
+			"speech": "En siis pysty lataamaan sävellystä jonka tein kotona toisella tietokoneella?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Et voi. Kokeile nyt musiikin lataamista."
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":6,"extension":1},{"pitch":"C4","unitNote":8,"start":12,"extension":3}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":1},{"pitch":"B3","unitNote":8,"start":8,"extension":1}],"A3":[{"pitch":"A3","unitNote":8,"start":2,"extension":1},{"pitch":"A3","unitNote":8,"start":6,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":1},{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":8,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":2,"extension":1},{"pitch":"F3","unitNote":8,"start":6,"extension":1},{"pitch":"F3","unitNote":8,"start":10,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":0,"extension":1},{"pitch":"E3","unitNote":8,"start":4,"extension":1},{"pitch":"E3","unitNote":8,"start":8,"extension":1},{"pitch":"E3","unitNote":8,"start":12,"extension":3}],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1},{"pitch":"D3","unitNote":8,"start":10,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe5",
+  "passNext": false
+}

@@ -1,0 +1,42 @@
+﻿{
+  "title": "音楽のつくり方5-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "次は、くり返しに小さな変化を付けて音楽をつくってみよう。"
+		},
+		{
+			"person": "child",
+			"speech": "くり返しを使って音楽をつくってみたけど、なんだかつまらないんです。"
+		},
+		{
+			"person": "teacher",
+			"speech": "じゃあ、くり返されるメロディーに、小さな変化を付けてみよう。"
+		},
+		{
+			"person": "child",
+			"speech": "じゃあ、ド → レ → ミ → ファ → ソ を ド → レ → ミ → ファ → 「ラ」に変えてみるよ。"
+		},
+		{
+			"person": "child",
+			"speech": "あ、なんだか面白い！つまらなくなくなったね！"
+		},
+		{
+			"person": "teacher",
+			"speech": "そうだね！それじゃあ、君もくり返しのメロディーに、小さな変化をつけてみよう！"
+		},
+		{
+			"person": "teacher",
+			"speech": "そして、これでレッスンは終わりだよ！レッスンを受けてくれてありがとう！！"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":3,"extension":0}],"E3":[{"pitch":"E3","unitNote":8,"start":2,"extension":0},{"pitch":"E3","unitNote":8,"start":22,"extension":1}],"D3":[{"pitch":"D3","unitNote":8,"start":1,"extension":0},{"pitch":"D3","unitNote":8,"start":19,"extension":2}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":32,"extension":7}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": null,
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 8, 15 ],
+    [ 24, 31 ]
+  ]
+}

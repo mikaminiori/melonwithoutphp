@@ -1,0 +1,46 @@
+﻿{
+  "title": "音楽のつくり方2-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "child",
+      "speech": "ドってとても便利だね！　これならドの音だけで音楽がつくれてしまうね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "ちょっと待って、他の音も使ってみようよ。そうでないと、つまらない音楽になってしまうよ... "
+    },
+    {
+      "person": "child",
+      "speech": "分かりました。でもどうすれば良いんですか？"
+    },
+    {
+      "person": "teacher",
+      "speech": "ソの音を、音楽の中に使ってみよう。"
+    },
+    {
+      "person": "child",
+			"speech": "はい…　おお、安定しているのにそんなにつまらなくないですね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "そして、ソ → ドで終わる音楽をつくれば、とても「終わった」感じがするよ。"
+    },
+    {
+      "person": "child",
+      "speech": "ソ → ドの流れもとても便利ですね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "そのとおり！　では、音楽の始まりと終わりを考えながら、ドではない音も使って、音楽をつくってみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":3},{"pitch":"C3","unitNote":8,"start":8,"extension":1},{"pitch":"C3","unitNote":8,"start":14,"extension":1},{"pitch":"C3","unitNote":8,"start":16,"extension":0},{"pitch":"C3","unitNote":8,"start":23,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "音楽のつくり方3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 10, 13 ],
+    [ 17, 22 ]
+  ]
+}

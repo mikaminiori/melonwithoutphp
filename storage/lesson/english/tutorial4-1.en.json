@@ -1,0 +1,41 @@
+﻿{
+  "title": "Tutorial4",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "This time, I'll teach you about Save." 
+		},
+		{
+			"person": "child",
+			"speech": "What is Save?"
+		},
+		{
+			"person": "teacher",
+			"speech": "You can leave the music so that you can forget the music."
+		},
+		{
+			"person": "child",
+			"speech": "It sounds very useful!"
+		},
+		{
+			"person": "teacher",
+			"speech": "You can save the music just pushing the save button which has ↓ picture."
+		},
+		{
+			"person": "teacher",
+			"speech": "Please note that the previous music which you have saved will be disposed."
+		},
+		{
+			"person": "child",
+			"speech": "OK! Then, I'll try to make big music!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Don't forget to save the music you have made this time because you will use it on next lesson!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":6,"extension":1}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":1},{"pitch":"B3","unitNote":8,"start":8,"extension":1}],"A3":[{"pitch":"A3","unitNote":8,"start":2,"extension":1},{"pitch":"A3","unitNote":8,"start":6,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":1},{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":8,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":2,"extension":1},{"pitch":"F3","unitNote":8,"start":6,"extension":1},{"pitch":"F3","unitNote":8,"start":10,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":0,"extension":1},{"pitch":"E3","unitNote":8,"start":4,"extension":1},{"pitch":"E3","unitNote":8,"start":8,"extension":1},{"pitch":"E3","unitNote":8,"start":12,"extension":3}],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1},{"pitch":"D3","unitNote":8,"start":10,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":12,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial4-2",
+  "passNext": false
+}

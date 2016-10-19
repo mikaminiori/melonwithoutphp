@@ -1,0 +1,50 @@
+﻿{
+  "title": "使い方2",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "今度は、音符の書きかたを教えるよ。" 
+    },
+    {
+      "person": "child",
+      "speech": "クリックしたままマウスを横に動かすと、音符を伸びちぢみさせられるんだよね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "良く知っているね！　でもじつは、音符に関するひみつは、それだけじゃないんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "え、なになに？"
+    },
+    {
+      "person": "teacher",
+      "speech": "すでに書いてある音符をクリックしたまま動かすと、音符の場所を変えることができるんだ。"
+    },
+    {
+      "person": "teacher",
+      "speech": "でも、音符を重ねることはできないから、気を付けてね。"
+    },
+    {
+      "person": "child",
+      "speech": "ほんとだ～、音程が変わると、新しい音程の音が鳴るんだね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "それだけじゃない。音符をダブルクリックすると、音符を伸びちぢみさせることができるんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "これで、簡単に色々な音符を作ることができるね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "そうだね。　さあ、君も色々な音符を書いてみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":4,"extension":3}],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方2-2",
+  "passNext": true
+}
+

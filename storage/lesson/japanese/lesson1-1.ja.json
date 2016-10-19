@@ -1,0 +1,53 @@
+﻿{
+  "title": "音楽のつくり方1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "こんにちは！"
+    },
+    {
+      "person": "child",
+      "speech": "こんにちは！！"
+    },
+    {
+      "person": "teacher",
+      "speech": "ここからは、MelOnの使い方ではなく、音楽のつくり方を教えていくよ。"
+    },
+    {
+      "person": "child",
+      "speech": "音楽をつくるのはむずかしそうです…"
+    },
+    {
+      "person": "teacher",
+      "speech": "心配しないで。簡単なお話から勉強していこう。"
+    },
+    {
+      "person": "child",
+      "speech": "分かりました。がんばってみます！"
+    },
+    {
+      "person": "teacher",
+      "speech": "良いね！　じゃあ、今日はリズムについて勉強していこう。いくつか例を用意したよ。"
+    },
+    {
+      "person": "child",
+      "speech": "はい！　…あれ？　今日の音楽は、1つの音程だけでできているよ？"
+    },
+    {
+      "person": "teacher",
+      "speech": "そのとおり！　例のリズムのちがいを感じてみよう！"
+    },
+    {
+      "person": "child",
+      "speech": "最初のは普通、2つ目のは楽しい感じで、3つ目のは穏やか、4つ目は変な感じ…"
+    },
+    {
+      "person": "teacher",
+      "speech": "その調子だよ！　君の感じ方を見つけてみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":0},{"pitch":"C3","unitNote":8,"start":11,"extension":0},{"pitch":"C3","unitNote":8,"start":13,"extension":0},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":24,"extension":0},{"pitch":"C3","unitNote":8,"start":25,"extension":0},{"pitch":"C3","unitNote":8,"start":26,"extension":0},{"pitch":"C3","unitNote":8,"start":27,"extension":0},{"pitch":"C3","unitNote":8,"start":29,"extension":0},{"pitch":"C3","unitNote":8,"start":30,"extension":0},{"pitch":"C3","unitNote":8,"start":31,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":3},{"pitch":"C3","unitNote":8,"start":20,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "音楽のつくり方1-2",
+  "passNext": false
+}

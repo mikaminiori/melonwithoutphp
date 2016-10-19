@@ -1,0 +1,121 @@
+﻿{
+  "Aihe1": {
+    "url": "storage/lesson/finnish/tutorial1-1.fi.json",
+    "description": "Oppitunnit MelOn ohjelmassa.",
+    "public": true
+  },
+
+  "Aihe1-2": {
+    "url": "storage/lesson/finnish/tutorial1-2.fi.json",
+    "description": "Oppitunnit MelOn ohjelmassa.",
+    "public": false
+  },
+
+  "Aihe2": {
+    "url": "storage/lesson/finnish/tutorial2-1.fi.json",
+    "description": "Nuottien muuttaminen.",
+    "public": true
+  },
+
+  "Aihe2-2": {
+    "url": "storage/lesson/finnish/tutorial2-2.fi.json",
+    "description": "Nuottien muuttaminen.",
+    "public": false
+  },
+
+  "Aihe3": {
+    "url": "storage/lesson/finnish/tutorial3-1.fi.json",
+    "description": "Kuinka vaihdat instrumenttejä ja nopeutta.",
+    "public": true
+  },
+
+  "Aihe3-2": {
+    "url": "storage/lesson/finnish/tutorial3-2.fi.json",
+    "description": "Kuinka vaihdat instrumenttejä ja nopeutta.",
+    "public": false
+  },
+
+  "Aihe4": {
+    "url": "storage/lesson/finnish/tutorial4-1.fi.json",
+    "description": "Kuinka tallennat ja lataat musiikkia.",
+    "public": true
+  },
+
+  "Aihe4-2": {
+    "url": "storage/lesson/finnish/tutorial4-2.fi.json",
+    "description": "Kuinka tallennat ja lataat musiikkia.",
+    "public": false
+  },
+
+  "Aihe5": {
+    "url": "storage/lesson/finnish/tutorial5-1.fi.json",
+    "description": "Kuinka teet suurempaa musiikkia.",
+    "public": true
+  },
+
+  "Aihe5-2": {
+    "url": "storage/lesson/finnish/tutorial5-2.fi.json",
+    "description": "Kuinka teet suurempaa musiikkia.",
+    "public": false
+  },
+
+  "Oppitunti1": {
+    "url": "storage/lesson/finnish/lesson1-1.fi.json",
+    "description": "Kuinka teet tahdin käyttäen yhtä sävelkorkeutta.",
+    "public": true
+  },
+
+  "Oppitunti1-2": {
+    "url": "storage/lesson/finnish/lesson1-2.fi.json",
+    "description": "Kuinka teet tahdin käyttäen yhtä sävelkorkeutta.",
+    "public": false
+  },
+
+  "Oppitunti2": {
+    "url": "storage/lesson/finnish/lesson2-1.fi.json",
+    "description": "Kuinka teet melodioita käyttäen kahta sävelkorkeutta.",
+    "public": true
+  },
+
+  "Oppitunti2-2": {
+    "url": "storage/lesson/finnish/lesson2-2.fi.json",
+    "description": "Kuinka teet melodioita käyttäen kahta sävelkorkeutta.",
+    "public": false
+  },
+
+  "Oppitunti3": {
+    "url": "storage/lesson/finnish/lesson3-1.fi.json",
+    "description": "Kuinka teet melodioita käyttäen seitsemää sävelkorkeutta.",
+    "public": true
+  },
+
+  "Oppitunti3-2": {
+    "url": "storage/lesson/finnish/lesson3-2.fi.json",
+    "description": "Kuinka teet melodioita käyttäen seitsemää sävelkorkeutta.",
+    "public": false
+  },
+
+  "Oppitunti4": {
+    "url": "storage/lesson/finnish/lesson4-1.fi.json",
+    "description": "Kuinka teet sointuja.",
+    "public": true
+  },
+
+  "Oppitunti4-2": {
+    "url": "storage/lesson/finnish/lesson4-2.fi.json",
+    "description": "Kuinka teet sointuja.",
+    "public": false
+  },
+
+  "Oppitunti5": {
+    "url": "storage/lesson/finnish/lesson5-1.fi.json",
+    "description": "Kuinka teet musiikkia käyttäen toistoa.",
+    "public": true
+  },
+
+  "Oppitunti5-2": {
+    "url": "storage/lesson/finnish/lesson5-2.fi.json",
+    "description": "Kuinka teet musiikkia käyttäen toistoa.",
+    "public": false
+  }
+}

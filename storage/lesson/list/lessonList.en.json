@@ -1,0 +1,121 @@
+﻿{
+	"Tutorial1": {
+		"url": "storage/lesson/english/tutorial1-1.en.json",
+		"description": "How to take lessons in MelOn.",
+		"public": true
+	},
+
+	"Tutorial1-2": {
+		"url": "storage/lesson/english/tutorial1-2.en.json",
+		"description": "How to take lessons in MelOn.",
+		"public": false
+	},
+
+	"Tutorial2": {
+		"url": "storage/lesson/english/tutorial2-1.en.json",
+		"description": "How to control notes.",
+		"public": true
+	},
+
+	"Tutorial2-2": {
+		"url": "storage/lesson/english/tutorial2-2.en.json",
+		"description": "How to control notes.",
+		"public": false
+	},
+
+	"Tutorial3": {
+		"url": "storage/lesson/english/tutorial3-1.en.json",
+		"description": "How to change the musical instrument and speed.",
+		"public": true
+	},
+
+	"Tutorial3-2": {
+		"url": "storage/lesson/english/tutorial3-2.en.json",
+		"description": "How to change the musical instrument and speed.",
+		"public": false
+	},
+
+	"Tutorial4": {
+		"url": "storage/lesson/english/tutorial4-1.en.json",
+		"description": "How to save and load the music.",
+		"public": true
+	},
+
+	"Tutorial4-2": {
+		"url": "storage/lesson/english/tutorial4-2.en.json",
+		"description": "How to save and load the music.",
+		"public": false
+	},
+
+	"Tutorial5": {
+		"url": "storage/lesson/english/tutorial5-1.en.json",
+		"description": "How to make bigger music.",
+		"public": true
+	},
+
+	"Tutorial5-2": {
+		"url": "storage/lesson/english/tutorial5-2.en.json",
+		"description": "How to make bigger music.",
+		"public": false
+	},
+
+  "Lesson1": {
+    "url": "storage/lesson/english/lesson1-1.en.json",
+    "description": "How to make rhythm using only 1 pitch.",
+    "public": true
+  },
+
+  "Lesson1-2": {
+    "url": "storage/lesson/english/lesson1-2.en.json",
+    "description": "How to make rhythm using only 1 pitch.",
+    "public": false
+  },
+
+  "Lesson2": {
+    "url": "storage/lesson/english/lesson2-1.en.json",
+    "description": "How to make melody using only 2 pitches.",
+    "public": true
+  },
+
+  "Lesson2-2": {
+    "url": "storage/lesson/english/lesson2-2.en.json",
+    "description": "How to make melody using only 2 pitches.",
+    "public": false
+  },
+
+  "Lesson3": {
+    "url": "storage/lesson/english/lesson3-1.en.json",
+    "description": "How to make melody using 7 pitches.",
+    "public": true
+  },
+
+  "Lesson3-2": {
+    "url": "storage/lesson/english/lesson3-2.en.json",
+    "description": "How to make melody using 7 pitches.",
+    "public": false
+  },
+
+  "Lesson4": {
+    "url": "storage/lesson/english/lesson4-1.en.json",
+    "description": "How to make harmony.",
+    "public": true
+  },
+
+  "Lesson4-2": {
+    "url": "storage/lesson/english/lesson4-2.en.json",
+    "description": "How to make harmony.",
+    "public": false
+  },
+
+  "Lesson5": {
+    "url": "storage/lesson/english/lesson5-1.en.json",
+    "description": "How to make music using repetition.",
+    "public": true
+  },
+
+  "Lesson5-2": {
+    "url": "storage/lesson/english/lesson5-2.en.json",
+    "description": "How to make music using repetition.",
+    "public": false
+  }
+}

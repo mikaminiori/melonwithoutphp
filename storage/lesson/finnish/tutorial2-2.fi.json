@@ -1,0 +1,50 @@
+﻿{
+  "title": "Aihe2-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Seuraavaksi opit miten nuotteja poistetaan."
+		},
+		{
+			"person": "child",
+			"speech": "Voiko sen tehdä käyttämällä pyyhekumin näköistä nappia?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Kyllä voi. Kun painat pyyhekumi nappia siirryt nuottien kirjoittamisesta niiden poistamiseen."
+		},
+		{
+			"person": "child",
+			"speech": "Ja nyt siis klikkaamalla nuotteja voin poistaa niitä."
+		},
+		{
+			"person": "teacher",
+			"speech": "Juuri niin! Voit poistaa nuotteja myäs pitämällä hiiren vasemman napin pohjassa kun kosket nuotteja."
+		},
+		{
+			"person": "child",
+			"speech": "Joo. Nuottien poistaminen on kivaa!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Mutta älä innostu tai poistat kaikki nuotit!"
+		},
+		{
+			"person": "child",
+			"speech": "Ok, koska silloin ei ole enää musiikkiakaan jäljellä."
+		},
+		{
+			"person": "teacher",
+			"speech": "Yritäpä nyt musiikin poistamista." 
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":3},{"pitch":"G3","unitNote":8,"start":10,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":8,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 4, 7 ],
+    [12, 15]
+  ]
+}

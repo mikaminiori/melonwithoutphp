@@ -1,0 +1,46 @@
+﻿{
+  "title": "Oppitunti2-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "child",
+      "speech": "DO on tosi hyödyllinen. Pystynkö tekemään musiikkia käyttäen vain DO:tä?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Käytä muitakin sävelkorkeuksia. Muuten musiikki voi muuttua tylsäksi…"
+    },
+    {
+      "person": "child",
+      "speech": "Ok… Miten se sitten tapahtuu?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Käytä G sointua kappaleen keskellä."
+    },
+    {
+      "person": "child",
+      "speech": "Ok… Se toimii eikä ole enään niin tylsä."
+    },
+    {
+      "person": "teacher",
+      "speech": "Ja jos päätät kappaleen SOL → DO melodiaan niin lopetus on voimakkaampi."
+    },
+    {
+      "person": "child",
+      "speech": "SOL → DO on siis tosi hyödyllinen!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Juuri niin! Tee siis nyt kappale ja mieti erityisesti alkua ja loppua."
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":3},{"pitch":"C3","unitNote":8,"start":8,"extension":1},{"pitch":"C3","unitNote":8,"start":14,"extension":1},{"pitch":"C3","unitNote":8,"start":16,"extension":0},{"pitch":"C3","unitNote":8,"start":23,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Oppitunti3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 10, 13 ],
+    [ 17, 22 ]
+  ]
+}

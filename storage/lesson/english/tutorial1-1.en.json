@@ -1,0 +1,65 @@
+﻿{
+  "title": "Tutorial1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Hello!"
+    },
+    {
+      "person": "child",
+      "speech": "Hello!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Thank you for your using MelOn! First of all, I'll teach you how to take lessons in MelOn."
+    },
+    {
+      "person": "child",
+      "speech": "Yeah!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Now, I'll tell you about one of the lessons in MelOn named Tracing Making Music."
+    },
+    {
+      "person": "child",
+      "speech": "What do you mean Tracing music?"
+    },
+    {
+      "person": "teacher",
+      "speech": "You can find musical score at the end of this story. In that score, some white clear notes are prepared."
+    },
+    {
+      "person": "child",
+      "speech": "I've got it! I can click them and trace the notes to make music!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Yes, you can, great! Try to trace the clear notes!"
+    },
+    {
+      "person": "child",
+      "speech": "Yes!　... I've finished it！"
+    },
+    {
+      "person": "child",
+      "speech": "What? There is the NEXT button below the score, but it seems not to work."
+    },
+    {
+      "person": "teacher",
+      "speech": "You should push the melon shaped button over the score to play the music. Then you can push the NEXT button. "
+    },
+    {
+      "person": "child",
+      "speech": "Oh, after finishing playing the music, the NEXT button changes its color! Now I can go to the next."
+    },
+    {
+      "person": "teacher",
+      "speech": "Cool! So, let's try the Tracing Making Music! "
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":0}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial1-2",
+  "passNext": true
+}

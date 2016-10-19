@@ -1,0 +1,57 @@
+﻿{
+  "title": "音楽のつくり方1-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "今回は、表拍と裏拍の違いを感じてみよう。 "
+    },
+    {
+      "person": "child",
+      "speech": "拍って何ですか？?"
+    },
+    {
+      "person": "teacher",
+      "speech": "音楽を再生したときに、タンバリンの音が聞こえるだろう？　これが拍だよ。"
+    },
+    {
+      "person": "child",
+      "speech": "なるほど！　じゃあ、表と裏ってどういうことですか？"
+    },
+    {
+      "person": "teacher",
+      "speech": "表拍は、タンバリンがなるタイミングそのもので、裏拍は表拍と表拍のちょうど真ん中のタイミングのことを言うんだ。"
+    },
+    {
+      "person": "teacher",
+      "speech": "音符の場所が表拍か裏拍かで、聞こえ方が大きく変わってくるんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "あ！最初の例と2番目の例はとても良く似ているけれど、始まる位置が違うね。"
+    },
+    {
+      "person": "child",
+      "speech": "再生してみたら、全然違って聞こえたよ！"
+    },
+    {
+      "person": "teacher",
+			"speech": "そうだね！ あとは、3 : 3 : 2 のリズムパターンを、3番目の例として紹介するよ。これはとても便利なリズムなんだ！"
+    },
+    {
+      "person": "child",
+      "speech": "これは、お気に入りのリズムだよ！"
+    },
+    {
+      "person": "teacher",
+      "speech": "良いね！　君のお気に入りのリズムを見つけて、自分だけのリズムをつくってみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":1},{"pitch":"C3","unitNote":8,"start":11,"extension":1},{"pitch":"C3","unitNote":8,"start":13,"extension":1},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":19,"extension":2},{"pitch":"C3","unitNote":8,"start":22,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "音楽のつくり方2",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 24, 31 ]
+  ]
+}

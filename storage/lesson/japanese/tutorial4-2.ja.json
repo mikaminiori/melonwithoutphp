@@ -1,0 +1,45 @@
+﻿{
+  "title": "使い方4-2",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "今度は、「読み込み」について教えるよ。"
+    },
+    {
+      "person": "child",
+      "speech": "「読み込み」ってなんですか？"
+    },
+    {
+      "person": "teacher",
+      "speech": "君たちが最後につくった音楽を、そのまま楽譜に書き直すことができるんだ。"
+    },
+    {
+      "person": "teacher",
+      "speech": "「読み込み」のやり方は、楽譜の下にある、上矢印(↑)が書いてあるボタンを押すだけ。"
+    },
+    {
+      "person": "child",
+      "speech": "今回の音楽は、前回作った曲ととてもよく似ているね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "その通り！「読み込み」機能の出番だね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "また、楽譜の「保存」は、このパソコンにしかされないから、他のパソコンを使うときは、同じ曲を「読み込み」できないことに気を付けよう。"
+    },
+    {
+      "person": "child",
+      "speech": "おうちに帰って「読み込み」をしても、学校のパソコンで作った曲を書き直すことはできないんだね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "そうなんだ。　さあ、君も「保存」した音楽を「読み込み」してみよう。"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":6,"extension":1},{"pitch":"C4","unitNote":8,"start":12,"extension":3}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":1},{"pitch":"B3","unitNote":8,"start":8,"extension":1}],"A3":[{"pitch":"A3","unitNote":8,"start":2,"extension":1},{"pitch":"A3","unitNote":8,"start":6,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":1},{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":8,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":2,"extension":1},{"pitch":"F3","unitNote":8,"start":6,"extension":1},{"pitch":"F3","unitNote":8,"start":10,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":0,"extension":1},{"pitch":"E3","unitNote":8,"start":4,"extension":1},{"pitch":"E3","unitNote":8,"start":8,"extension":1},{"pitch":"E3","unitNote":8,"start":12,"extension":3}],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1},{"pitch":"D3","unitNote":8,"start":10,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方5",
+  "passNext": false
+}

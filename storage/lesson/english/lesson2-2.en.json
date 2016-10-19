@@ -1,0 +1,46 @@
+﻿{
+  "title": "Lesson2-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "child",
+      "speech": "C is very useful! I can make only using C to make music!"
+    },
+    {
+      "person": "teacher",
+      "speech": "But, try to use other pitches. Otherwise your music may be boring... "
+    },
+    {
+      "person": "child",
+      "speech": "OK... Then, what should I do?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Try to use G in the middle of your music."
+    },
+    {
+      "person": "child",
+      "speech": "OK ... Wow, it sounds so stable but not so boring!"
+    },
+    {
+      "person": "teacher",
+      "speech": "And, If you use G → C melody at last of your music, you can feel finishing much strongly."
+    },
+    {
+      "person": "child",
+      "speech": "G → C is also useful!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "That's right! So, let's try to make music while thinking about how to start and finish!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":3},{"pitch":"C3","unitNote":8,"start":8,"extension":1},{"pitch":"C3","unitNote":8,"start":14,"extension":1},{"pitch":"C3","unitNote":8,"start":16,"extension":0},{"pitch":"C3","unitNote":8,"start":23,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 10, 13 ],
+    [ 17, 22 ]
+  ]
+}

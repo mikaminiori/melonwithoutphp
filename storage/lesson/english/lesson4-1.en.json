@@ -1,0 +1,45 @@
+﻿{
+  "title": "Lesson4",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "In this lecture, I'll teach you about harmony."
+		},
+		{
+			"person": "child",
+			"speech": "I wanna make this music more gorgeous!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Then, try to put the same phrase which slides down 2 pitches."
+		},
+		{
+			"person": "child",
+			"speech": "Oh, this is gorgeous!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Yes, this is called Harmony!"
+		},
+		{
+			"person": "child",
+			"speech": "Making harmony is very easy way to make music more gorgeous!"
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! But, it's better to avoid sliding only once. I recommend to slide more than one pitch."
+		},
+		{
+			"person": "child",
+			"speech": "I see, I think twice-slided harmony is more beautiful than once-slided harmony!"
+		},
+		{
+      "person": "teacher",
+      "speech": "Exactly! Let's make harmony!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[{"pitch":"A3","unitNote":8,"start":8,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":6,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":16,"extension":1},{"pitch":"F3","unitNote":8,"start":18,"extension":1},{"pitch":"F3","unitNote":8,"start":8,"extension":1},{"pitch":"F3","unitNote":8,"start":10,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":20,"extension":1},{"pitch":"E3","unitNote":8,"start":22,"extension":1},{"pitch":"E3","unitNote":8,"start":4,"extension":1},{"pitch":"E3","unitNote":8,"start":6,"extension":1},{"pitch":"E3","unitNote":8,"start":12,"extension":3}],"D3":[{"pitch":"D3","unitNote":8,"start":24,"extension":1},{"pitch":"D3","unitNote":8,"start":26,"extension":1},{"pitch":"D3","unitNote":8,"start":16,"extension":1},{"pitch":"D3","unitNote":8,"start":18,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":28,"extension":3},{"pitch":"C3","unitNote":8,"start":20,"extension":1},{"pitch":"C3","unitNote":8,"start":22,"extension":1}],"B2":[{"pitch":"B2","unitNote":8,"start":24,"extension":1},{"pitch":"B2","unitNote":8,"start":26,"extension":1}],"A2":[{"pitch":"A2","unitNote":8,"start":0,"extension":1},{"pitch":"A2","unitNote":8,"start":2,"extension":1},{"pitch":"A2","unitNote":8,"start":28,"extension":3}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson4-2",
+  "passNext": false
+}
