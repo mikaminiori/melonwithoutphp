@@ -17,7 +17,7 @@ deployment:
  producution:
   branch: master
   commands:
-   - aws s3 sync . s3://dontforgetmeplsmelon/ --delete
+   - aws s3 sync . s3://melonwithoutphp2/ --delete
  staging:
   branch: staging
   commands:
