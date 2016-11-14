@@ -151,6 +151,11 @@ var LESSON;
                 "Japanese": "よくできました！　「次へ」ボタンを押して進もう！",
                 "Finnish": "Erinomaista! Paina SEURAAVA nappia jatkaaksesi!",
             };
+	    this.StartMsg = {
+	    	"English": "Hello",
+		"Japanese": "動画を埋め込もう",
+		"Finnish": "oh",
+	    };
         }
         return LessonModal;
     })();
