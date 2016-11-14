@@ -23,8 +23,7 @@ var Achievement = (function (_super) {
         this.onChangeNum = new Phaser.Signal;
     }
     Achievement.prototype.startLesson = function () {
-    	this.onStart.dispatch();
-        this.onChangeNum.dispatch();
+    	this.onChangeNum.dispatch();
     };
     Object.defineProperty(Achievement.prototype, "isAchieved", {
         get: function () {
@@ -108,6 +107,9 @@ var Achievement = (function (_super) {
     Achievement.prototype.activate = function () {
         this.activated = true;
         this.onActivate.dispatch();
+    };
+    Achievement.prototype.startLesson = function () {
+    	this.onStart.dispatch();
     };
     Achievement.prototype.countRestTrace = function (target, music) {
         var count = 0;
