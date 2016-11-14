@@ -19,9 +19,11 @@ var Achievement = (function (_super) {
         this.onPlayAlert = new Phaser.Signal;
         this.onStopAlert = new Phaser.Signal;
         this.onActivate = new Phaser.Signal;
+	this.onStart = new Phaser.Signal;
         this.onChangeNum = new Phaser.Signal;
     }
     Achievement.prototype.startLesson = function () {
+    	this.onStart.dispatch();
         this.onChangeNum.dispatch();
     };
     Object.defineProperty(Achievement.prototype, "isAchieved", {
