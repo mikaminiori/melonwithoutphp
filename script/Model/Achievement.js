@@ -108,7 +108,7 @@ var Achievement = (function (_super) {
         this.activated = true;
         this.onActivate.dispatch();
     };
-    Achievement.prototype.startLesson = function () {
+    Achievement.prototype.start = function () {
     	this.onStart.dispatch();
     };
     Achievement.prototype.countRestTrace = function (target, music) {
