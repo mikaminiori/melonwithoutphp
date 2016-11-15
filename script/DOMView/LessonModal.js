@@ -19,7 +19,7 @@ var LessonModal = (function (_super) {
         this.achievement.onPlayAlert.add(function () { return _this.playAlert(); });
         this.achievement.onStopAlert.add(function () { return _this.stopAlert(); });
         this.achievement.onActivate.add(function () { return _this.activate(); });
-	this.achievement.onStartLesson.add(function () { return _this.StartLesson();});
+	this.achievement.onstart.add(function () { return _this.start();});
     };
     LessonModal.prototype.finish = function () {
         this.game.sound.play("load");
@@ -37,7 +37,7 @@ var LessonModal = (function (_super) {
         this.game.sound.play("save");
         this.alert(this.constants.goNextMsg);
     };
-    LessonModal.prototype.StartLesson = function () {
+    LessonModal.prototype.start = function () {
     	this.game.sound.play("boo");
 	this.alert(this.constants.StartMsg);
     };
