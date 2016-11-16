@@ -15,6 +15,7 @@ class LessonModal extends ModalWindow {
         this.achievement.onPlayAlert.add(() => this.playAlert());
         this.achievement.onStopAlert.add(() => this.stopAlert());
         this.achievement.onActivate.add(() => this.activate());
+	this.achievement.onstart.add((() => this.start());
     }
 
     private finish() {
@@ -36,4 +37,10 @@ class LessonModal extends ModalWindow {
         this.game.sound.play("save");
         this.alert(this.constants.goNextMsg);
     }
+
+    private start() {
+    	this.game.sound.play("boo");
+	this.alert(this.constants.StartMsg
+	}
+
 }

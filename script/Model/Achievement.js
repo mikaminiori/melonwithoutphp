@@ -19,7 +19,7 @@ var Achievement = (function (_super) {
         this.onPlayAlert = new Phaser.Signal;
         this.onStopAlert = new Phaser.Signal;
         this.onActivate = new Phaser.Signal;
-	this.onStart = new Phaser.Signal;
+	this.onstart = new Phaser.Signal;
         this.onChangeNum = new Phaser.Signal;
     }
     Achievement.prototype.startLesson = function () {
@@ -109,7 +109,7 @@ var Achievement = (function (_super) {
         this.onActivate.dispatch();
     };
     Achievement.prototype.start = function () {
-    	this.onStart.dispatch();
+    	this.onstart.dispatch();
     };
     Achievement.prototype.countRestTrace = function (target, music) {
         var count = 0;

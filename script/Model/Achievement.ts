@@ -12,6 +12,7 @@ class Achievement extends Model {
     onPlayAlert: Phaser.Signal = new Phaser.Signal;
     onStopAlert: Phaser.Signal = new Phaser.Signal;
     onActivate: Phaser.Signal = new Phaser.Signal;
+    onstart: Phaser.Signal = new Phaser.Signal;
 	onChangeNum: Phaser.Signal = new Phaser.Signal;
 
     constructor(private constants: LESSON.Achievement, private mode: string) {
@@ -81,6 +82,8 @@ class Achievement extends Model {
 		this.activated = true;
         this.onActivate.dispatch();
     }
+    start() {
+    	this.onstart.dispatch();
 
 	countRestTrace(target: MusicData, music: MusicData): number {
 		var count: number = 0;

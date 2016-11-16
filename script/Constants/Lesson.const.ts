@@ -124,6 +124,11 @@ namespace LESSON {
             "Japanese": "よくできました！　「次へ」ボタンを押して進もう！",
             "Finnish": "Erinomaista! Paina SEURAAVA nappia jatkaaksesi!",
         };
+	StartMsg = {
+	    "English": "Hello",
+	    "Japanese": "動画を埋め込もう",
+	    "Finnish": "oh",
+	    };
     }
 
 	export class ReturnLessonListButton implements ReturnButton {
