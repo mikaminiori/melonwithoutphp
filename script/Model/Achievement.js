@@ -12,6 +12,7 @@ var Achievement = (function (_super) {
         this.mode = mode;
         this.finished = false;
         this.activated = false;
+	this.popup = true;
         this.restTrace = 0;
         this.restFilling = 0;
         this.red = 0;
@@ -109,7 +110,10 @@ var Achievement = (function (_super) {
         this.onActivate.dispatch();
     };
     Achievement.prototype.start = function () {
-    	this.onstart.dispatch();
+    	if (this.popup){
+		this.onstart.dispatch();
+		this.popup = false;
+	}
     };
     Achievement.prototype.countRestTrace = function (target, music) {
         var count = 0;
