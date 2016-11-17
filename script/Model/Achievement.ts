@@ -22,6 +22,7 @@ class Achievement extends Model {
 
 	startLesson() {
 		this.onChangeNum.dispatch();
+		this.start();
 	}
 
     get isAchieved(): boolean {
