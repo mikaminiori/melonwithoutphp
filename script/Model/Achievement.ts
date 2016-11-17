@@ -4,6 +4,7 @@ class Achievement extends Model {
 	
     private finished: boolean = false;
 	private activated: boolean = false;
+	private popup: boolean = true;
 	private restTrace: number = 0;
 	private restFilling: number = 0;
 	private red: number = 0;
@@ -82,8 +83,12 @@ class Achievement extends Model {
 		this.activated = true;
         this.onActivate.dispatch();
     }
-    start() {
+    start(): boolean {
+	if(this.popup){    
     	this.onstart.dispatch();
+		this.popup = false;
+	}
+    }
 
 	countRestTrace(target: MusicData, music: MusicData): number {
 		var count: number = 0;
