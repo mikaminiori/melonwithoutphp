@@ -25,6 +25,7 @@ var Achievement = (function (_super) {
     }
     Achievement.prototype.startLesson = function () {
     	this.onChangeNum.dispatch();
+	console.log("are you ok?");
 	this.start();
     };
     Object.defineProperty(Achievement.prototype, "isAchieved", {
