@@ -101,6 +101,7 @@ var Achievement = (function (_super) {
     };
     Achievement.prototype.playAlert = function () {
         this.onPlayAlert.dispatch();
+	console.log("playAlert");
     };
     Achievement.prototype.stopAlert = function () {
         this.onStopAlert.dispatch();
@@ -111,6 +112,7 @@ var Achievement = (function (_super) {
     };
     Achievement.prototype.start = function () {
     	if (this.popup){
+		console.log("popup");
 		this.onstart.dispatch();
 		this.popup = false;
 	}
