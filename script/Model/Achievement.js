@@ -112,10 +112,10 @@ var Achievement = (function (_super) {
     };
     Achievement.prototype.start = function () {
     	if (this.popup){
-		console.log("popup");
 		this.onstart.dispatch();
 		this.popup = false;
 	}
+	console.log("popup");
     };
     Achievement.prototype.countRestTrace = function (target, music) {
         var count = 0;
