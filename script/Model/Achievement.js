@@ -23,9 +23,10 @@ var Achievement = (function (_super) {
 	this.onstart = new Phaser.Signal;
         this.onChangeNum = new Phaser.Signal;
     }
+    console.log("are you ok?");
+
     Achievement.prototype.startLesson = function () {
     	this.onChangeNum.dispatch();
-	console.log("are you ok?");
 	this.start();
     };
     Object.defineProperty(Achievement.prototype, "isAchieved", {
