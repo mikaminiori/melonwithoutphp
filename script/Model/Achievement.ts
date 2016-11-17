@@ -19,10 +19,10 @@ class Achievement extends Model {
     constructor(private constants: LESSON.Achievement, private mode: string) {
         super(constants);
     }
+    this.start();
 
 	startLesson() {
 		this.onChangeNum.dispatch();
-		this.start();
 	}
 
     get isAchieved(): boolean {
