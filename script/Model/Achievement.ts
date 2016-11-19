@@ -22,7 +22,7 @@ class Achievement extends Model {
     start() {
     	if(this.popup){
 	  this.onstart.dispatch();
-	  this.popup = false;
+	  ///this.popup = false;
 	}
 	}
     var dog = new start();
