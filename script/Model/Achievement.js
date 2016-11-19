@@ -24,7 +24,7 @@ var Achievement = (function (_super) {
         this.onChangeNum = new Phaser.Signal;
     }
     console.log("are you ok?");
-    this.start();
+    ///this.start();
     Achievement.prototype.startLesson = function () {
     	this.onChangeNum.dispatch();
     };
@@ -104,6 +104,7 @@ var Achievement = (function (_super) {
     Achievement.prototype.playAlert = function () {
         this.onPlayAlert.dispatch();
 	console.log("playAlert");
+	this.start();
     };
     Achievement.prototype.stopAlert = function () {
         this.onStopAlert.dispatch();
