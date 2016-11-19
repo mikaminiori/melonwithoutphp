@@ -19,7 +19,7 @@ class Achievement extends Model {
     constructor(private constants: LESSON.Achievement, private mode: string) {
         super(constants);
     }
-    start(): boolean {
+    start() {
     	if(this.popup){
 	  this.onstart.dispatch();
 	  this.popup = false;
@@ -91,12 +91,6 @@ class Achievement extends Model {
     activate() {
 		this.activated = true;
         this.onActivate.dispatch();
-    }
-      doge(): boolean {
-	if(this.popup){    
-    	this.onstart.dispatch();
-		this.popup = false;
-	}
     }
 
 	countRestTrace(target: MusicData, music: MusicData): number {
