@@ -25,7 +25,6 @@ class Achievement extends Model {
 	  this.popup = false;
 	}
 	}
-						    }
     start();
 
 	startLesson() {
