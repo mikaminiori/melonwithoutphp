@@ -81,7 +81,7 @@ class Achievement extends Model {
     playAlert() {
         this.onPlayAlert.dispatch();
 	console.log("playAlert");
-	this.start();
+	dog.start();
     }
 
     stopAlert() {
