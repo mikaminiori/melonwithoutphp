@@ -19,7 +19,14 @@ class Achievement extends Model {
     constructor(private constants: LESSON.Achievement, private mode: string) {
         super(constants);
     }
-    ///this.start();
+    start(): boolean {
+    	if(this.popup){
+	  this.onstart.dispatch();
+	  this.popup = false;
+	}
+	}
+						    }
+    start();
 
 	startLesson() {
 		this.onChangeNum.dispatch();
@@ -86,7 +93,7 @@ class Achievement extends Model {
 		this.activated = true;
         this.onActivate.dispatch();
     }
-    start(): boolean {
+      doge(): boolean {
 	if(this.popup){    
     	this.onstart.dispatch();
 		this.popup = false;
