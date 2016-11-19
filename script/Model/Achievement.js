@@ -24,8 +24,8 @@ var Achievement = (function (_super) {
         this.onChangeNum = new Phaser.Signal;
     }
     console.log("are you ok?");
-    var dog = new start();
-    dog.start();
+   /// var dog = new start();
+    ///dog.start();
     Achievement.prototype.startLesson = function () {
     	this.onChangeNum.dispatch();
     };
