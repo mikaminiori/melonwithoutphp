@@ -19,12 +19,12 @@ class Achievement extends Model {
     constructor(private constants: LESSON.Achievement, private mode: string) {
         super(constants);
     }
-    start() {
-    	if(this.popup){
-	  this.onstart.dispatch();
+    ///start() {
+    ///	if(this.popup){
+///	  this.onstart.dispatch();
 	  ///this.popup = false;
-	}
-	}
+///	}
+///	}
    /// var dog = new start();
 
 	startLesson() {
