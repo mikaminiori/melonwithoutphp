@@ -23,11 +23,11 @@ var Achievement = (function (_super) {
 	this.onstart = new Phaser.Signal;
         this.onChangeNum = new Phaser.Signal;
     }
-    console.log("are you ok?");
    /// var dog = new start();
     ///dog.start();
      Object.defineProperty(Achievement.prototype, "isPopuped", {
-        get: function () {
+        console.log("are you ok?");
+	get: function () {
 	   return this.popup
         },
 	enumerable: true,
