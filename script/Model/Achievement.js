@@ -26,6 +26,13 @@ var Achievement = (function (_super) {
     console.log("are you ok?");
    /// var dog = new start();
     ///dog.start();
+     Object.defineProperty(Achievement.prototype, "isPopuped", {
+        get: function () {
+	   return this.popup
+        },
+	enumerable: true,
+	configurable: true
+    });
     Achievement.prototype.startLesson = function () {
     	this.onChangeNum.dispatch();
     };
@@ -114,7 +121,8 @@ var Achievement = (function (_super) {
         this.onActivate.dispatch();
     };
     Achievement.prototype.start = function () {
-    	if (this.popup){
+    	console.log("i called");
+    	if (this.isPopuped){
 		this.onstart.dispatch();
 		this.popup = false;
 	}

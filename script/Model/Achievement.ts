@@ -19,13 +19,11 @@ class Achievement extends Model {
     constructor(private constants: LESSON.Achievement, private mode: string) {
         super(constants);
     }
-    ///start() {
-    ///	if(this.popup){
-///	  this.onstart.dispatch();
-	  ///this.popup = false;
-///	}
-///	}
-   /// var dog = new start();
+    console.log("are you ok?");
+
+    get isPopuped(): boolean {
+            return this.true;
+    }
 
 	startLesson() {
 		this.onChangeNum.dispatch();
@@ -91,6 +89,14 @@ class Achievement extends Model {
 		this.activated = true;
         this.onActivate.dispatch();
     }
+    start(): boolean {
+    	  console.log("i called");
+          if(this.isPopuped) {
+	            this.onstart.dispatch();
+		    this.popup = false;
+		}
+	console.log("popup");
+	}
 
 	countRestTrace(target: MusicData, music: MusicData): number {
 		var count: number = 0;
