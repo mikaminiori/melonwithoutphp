@@ -26,8 +26,8 @@ var Achievement = (function (_super) {
    /// var dog = new start();
     ///dog.start();
      Object.defineProperty(Achievement.prototype, "isPopuped", {
-        console.log("are you ok?");
 	get: function () {
+	   console.log("are you ok?");
 	   return this.popup
         },
 	enumerable: true,
