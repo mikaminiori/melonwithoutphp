@@ -78,7 +78,7 @@ class Achievement extends Model {
 
     playAlert() {
         this.onPlayAlert.dispatch();
-	console.log("playAlert");
+	///console.log("playAlert");
     }
 
     stopAlert() {
@@ -90,12 +90,12 @@ class Achievement extends Model {
         this.onActivate.dispatch();
     }
     start(): boolean {
-    	  console.log("i called");
+    	  ///console.log("i called");
           if(this.isPopuped) {
 	            this.onstart.dispatch();
 		    this.popup = false;
 		}
-	console.log("popup");
+	///console.log("popup");
 	}
 
 	countRestTrace(target: MusicData, music: MusicData): number {
