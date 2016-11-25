@@ -22,3 +22,7 @@ deployment:
   branch: staging
   commands:
    - aws s3 sync . s3://melonwithoutphp/ --delete
+ sides:
+  branch: sides
+  commands:
+   - aws s3 sync . s3://melonwithoutphp3/ --delete
