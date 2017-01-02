@@ -1,0 +1,57 @@
+﻿{
+  "title": "Lesson1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Hello!"
+    },
+    {
+      "person": "child",
+      "speech": "Hello!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Well, Let's start Lesson rather than tutorial. "
+    },
+    {
+      "person": "teacher",
+      "speech": "You can learn how to make music in these lessons."
+    },
+    {
+      "person": "child",
+      "speech": "It seems difficult to make music..."
+    },
+    {
+      "person": "teacher",
+      "speech": "Don't worry, let's begin lesson from easy topics. "
+    },
+    {
+      "person": "child",
+      "speech": "OK, I'll try to learn!"
+    },
+    {
+      "person": "teacher",
+      "speech": "That's good! So, today, I want you to learn about rhythm. And I prepared some examples."
+    },
+    {
+      "person": "child",
+      "speech": "Yes! ...What? today's music is made from only one pitch."
+    },
+    {
+      "person": "teacher",
+      "speech": "That's right! Let's feel the difference of example rhythms!"
+    },
+    {
+      "person": "child",
+      "speech": "I feel... first is normal, second is fun, third is gentle, fourth is strange."
+    },
+    {
+      "person": "teacher",
+      "speech": "Good feeling! Try to find your impression!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":0},{"pitch":"C3","unitNote":8,"start":11,"extension":0},{"pitch":"C3","unitNote":8,"start":13,"extension":0},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":24,"extension":0},{"pitch":"C3","unitNote":8,"start":25,"extension":0},{"pitch":"C3","unitNote":8,"start":26,"extension":0},{"pitch":"C3","unitNote":8,"start":27,"extension":0},{"pitch":"C3","unitNote":8,"start":29,"extension":0},{"pitch":"C3","unitNote":8,"start":30,"extension":0},{"pitch":"C3","unitNote":8,"start":31,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":3},{"pitch":"C3","unitNote":8,"start":20,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson1-2",
+  "passNext": false
+}

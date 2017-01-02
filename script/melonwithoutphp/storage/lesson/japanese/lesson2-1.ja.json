@@ -1,0 +1,37 @@
+﻿{
+  "title": "音楽のつくり方2",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "今回は、音楽の始め方と終わり方について教えていくよ。"
+    },
+    {
+      "person": "child",
+      "speech": "はい！ いつも音楽をどうつくり始めればいいのか分からないんですよね…"
+    },
+    {
+      "person": "teacher",
+      "speech": "じゃあ、まずはドの音から始めて見たらどうかな？"
+    },
+    {
+      "person": "child",
+      "speech": "分かりました、やってみます。…あ、なんだか自然な感じです。じゃあ、音楽の終わりはどうすれば良いんですか？"
+    },
+    {
+      "person": "teacher",
+      "speech": "これも、ドの音で終わってみよう。"
+    },
+    {
+      "person": "child",
+      "speech": "すごい、自然に始まって、自然に終わりますね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "良かったね。さあ、ドで始まって、ドで終わる音楽をつくってみよう。"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":10,"extension":1},{"pitch":"G3","unitNote":8,"start":19,"extension":2},{"pitch":"G3","unitNote":8,"start":27,"extension":0},{"pitch":"G3","unitNote":8,"start":29,"extension":0}],"F3":[],"E3":[],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":3},{"pitch":"C3","unitNote":8,"start":8,"extension":1},{"pitch":"C3","unitNote":8,"start":12,"extension":3},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":22,"extension":1},{"pitch":"C3","unitNote":8,"start":25,"extension":0},{"pitch":"C3","unitNote":8,"start":30,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "音楽のつくり方2-2",
+  "passNext": false
+}

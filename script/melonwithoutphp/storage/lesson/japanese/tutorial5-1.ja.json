@@ -1,0 +1,37 @@
+﻿{
+  "title": "使い方5",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "child",
+      "speech": "先生、もっと高い音や、低い音を使って音楽をつくりたいです！"
+    },
+    {
+      "person": "teacher",
+      "speech": "分かった。それには、楽譜の左側にある、上下の矢印が書かれているボタンを押してみよう。"
+    },
+    {
+      "person": "child",
+      "speech": "おお～、まだこんなに楽譜は広かったんだ！"
+    },
+    {
+      "person": "teacher",
+      "speech": "その通り！　これで、もっと高い音や低い音を出すことができるね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "でも、一度に見ることができる音程は7個（1オクターブ)だから、見えないところにある音符に気を付けよう。"
+    },
+    {
+      "person": "child",
+      "speech": "この上下のボタン…ダブルクリックすると一番上と一番下に、それぞれ移動できるんだ！"
+    },
+    {
+      "person": "teacher",
+      "speech": "良く気付いたね！　さあ、君ももっと高い音や低い音を使って音楽を作ろう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[{"pitch":"E4","unitNote":8,"start":8,"extension":1}],"D4":[{"pitch":"D4","unitNote":8,"start":10,"extension":1}],"C4":[{"pitch":"C4","unitNote":8,"start":12,"extension":3}],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":4,"extension":3}],"B2":[{"pitch":"B2","unitNote":8,"start":3,"extension":0}],"A2":[{"pitch":"A2","unitNote":8,"start":0,"extension":2}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方5-2",
+  "passNext": false
+}

@@ -1,0 +1,45 @@
+﻿{
+  "title": "Aihe3-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "child",
+			"speech": "Voiko musiikin tekemisessä muuttaa vielä jotain muutakin?" 
+		},
+		{
+			"person": "teacher",
+			"speech": "Kyllä voi. Voit vaihtaa musiikin nopeutta."
+		},
+		{
+			"person": "teacher",
+			"speech": "Huomaatko NORMAALI napin sävelasteikon yläpuolella?"
+		},
+		{
+			"person": "child",
+			"speech": "Joo."
+		},
+		{
+			"person": "teacher",
+			"speech": "Napin molemmilla puolilla on nuolet. Vasen nuoli hidastaa ja oikea nuoli nopeuttaa musiikkia."
+		},
+		{
+			"person": "child",
+			"speech": "Joo ja ääni kuulostaa ihan erilaiselta!"
+		},
+		{
+			"person": "child",
+			"speech": "Nopea musiikki kuulostaa vauhdikkaalta ja hidas rauhalliselta."
+		},
+		{
+			"person": "teacher",
+			"speech": "Joo, vaihdellaan musiikin nopeuksia!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":0,"extension":3}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":0}],"A3":[{"pitch":"A3","unitNote":8,"start":5,"extension":0}],"G3":[{"pitch":"G3","unitNote":8,"start":6,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe4",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 8, 15 ]
+  ]
+}

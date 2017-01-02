@@ -1,0 +1,57 @@
+﻿{
+  "title": "Oppitunti1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Hei!"
+    },
+    {
+      "person": "child",
+      "speech": "Hei!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Aloitetaanpa oppitunnilla alkeiden sijaan."
+    },
+    {
+      "person": "teacher",
+      "speech": "Opit tekemään musiikkia näillä oppitunneilla."
+    },
+    {
+      "person": "child",
+      "speech": "Musiikin tekeminen tuntuu vaikealta…"
+    },
+    {
+      "person": "teacher",
+      "speech": "Älä huolehti. Aloitetaan tunnit helpoista asioista."
+    },
+    {
+      "person": "child",
+      "speech": "Ok, tehdään niin!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Hyvä! Aloitetaan tahdista. Olen tehnyt siitä muutamia esimerkkejä."
+    },
+    {
+      "person": "child",
+      "speech": "Selvä! … Tehdäänkö musiikkia siis vain yhdellä sävelkorkeudella?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Kyllä. Kuuntele mitä eroa esimerkki tahdeissa on!"
+    },
+    {
+      "person": "child",
+      "speech": "Ok …  Ensimmäinen on aika tavallinen, toinen on hauska, kolmas lempeä ja neljäs on outo."
+    },
+    {
+      "person": "teacher",
+      "speech": "Hienosti tunnistettu! Tee nyt oma tahtisi!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":0},{"pitch":"C3","unitNote":8,"start":11,"extension":0},{"pitch":"C3","unitNote":8,"start":13,"extension":0},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":24,"extension":0},{"pitch":"C3","unitNote":8,"start":25,"extension":0},{"pitch":"C3","unitNote":8,"start":26,"extension":0},{"pitch":"C3","unitNote":8,"start":27,"extension":0},{"pitch":"C3","unitNote":8,"start":29,"extension":0},{"pitch":"C3","unitNote":8,"start":30,"extension":0},{"pitch":"C3","unitNote":8,"start":31,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":3},{"pitch":"C3","unitNote":8,"start":20,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Oppitunti1-2",
+  "passNext": false
+}

@@ -1,0 +1,41 @@
+﻿{
+  "title": "Lesson3",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "This time, I'll teach you how to make music not only C and G."
+    },
+    {
+      "person": "child",
+      "speech": "How can I use pitches except for C and G?"
+    },
+    {
+      "person": "teacher",
+      "speech": "There are mainly 3 ideas how to use all pitches."
+    },
+    {
+      "person": "teacher",
+      "speech": "1, Moving to the next pitch. For example C → D → E or C → B → A."
+    },
+    {
+      "person": "teacher",
+      "speech": "2, Continue the same pitch. For example D → D → D or B → B → B. "
+    },
+    {
+      "person": "teacher",
+      "speech": "3, Jump to the faraway pitch. For example C → E → A or C → A → D. "
+    },
+    {
+      "person": "child",
+      "speech": "There are many ways to use all the notes."
+    },
+    {
+      "person": "teacher",
+      "speech": "That's right. Anyway, let's try to use these ways to use all the notes. "
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":22,"extension":1}],"F3":[],"E3":[{"pitch":"E3","unitNote":8,"start":2,"extension":1},{"pitch":"E3","unitNote":8,"start":17,"extension":0}],"D3":[{"pitch":"D3","unitNote":8,"start":1,"extension":0},{"pitch":"D3","unitNote":8,"start":8,"extension":1},{"pitch":"D3","unitNote":8,"start":10,"extension":0},{"pitch":"D3","unitNote":8,"start":11,"extension":0},{"pitch":"D3","unitNote":8,"start":21,"extension":0}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":0},{"pitch":"C3","unitNote":8,"start":19,"extension":0},{"pitch":"C3","unitNote":8,"start":24,"extension":7}],"B2":[{"pitch":"B2","unitNote":8,"start":5,"extension":0},{"pitch":"B2","unitNote":8,"start":12,"extension":1},{"pitch":"B2","unitNote":8,"start":14,"extension":0},{"pitch":"B2","unitNote":8,"start":15,"extension":0}],"A2":[{"pitch":"A2","unitNote":8,"start":6,"extension":1},{"pitch":"A2","unitNote":8,"start":18,"extension":0},{"pitch":"A2","unitNote":8,"start":20,"extension":0}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson3-2",
+  "passNext": false
+}

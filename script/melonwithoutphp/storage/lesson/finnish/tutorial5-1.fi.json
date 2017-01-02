@@ -1,0 +1,37 @@
+﻿{
+  "title": "Aihe5",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "child",
+			"speech": "Haluan tehdä musiikkia korkeammalla ja matalammalla säveläasteikolla!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Selvä juttu. Voit painaa yläs ja alas nuolia jotka ovat sävelasteikon vasemmassa reunassa."
+		},
+		{
+			"person": "child",
+			"speech": "Wow! Sävelasteikko on tosi iso!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Niin on. Nyt voit tehdä korkeita ja matalia ääniä!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Muista että näet ainoastaan 7 sävelkorkeutta kerrallaan. Jotain nuotteja voi siis jäädä piiloon."
+		},
+		{
+			"person": "child",
+			"speech": "Ylös ja alas napit.. Niillä siis siirrytään eri asteikoille."
+		},
+		{
+			"person": "teacher",
+			"speech": "Juuri niin. Yritäpä nyt tehdä sekä korkeita että matalia ääniä!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[{"pitch":"E4","unitNote":8,"start":8,"extension":1}],"D4":[{"pitch":"D4","unitNote":8,"start":10,"extension":1}],"C4":[{"pitch":"C4","unitNote":8,"start":12,"extension":3}],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":4,"extension":3}],"B2":[{"pitch":"B2","unitNote":8,"start":3,"extension":0}],"A2":[{"pitch":"A2","unitNote":8,"start":0,"extension":2}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe5-2",
+  "passNext": false
+}

@@ -1,0 +1,33 @@
+﻿{
+  "title": "Lesson4-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Next, try to make your original harmony."
+		},
+		{
+			"person": "child",
+			"speech": "Is it the only way to make harmony sliding down 2 pitches?"
+		},
+		{
+			"person": "teacher",
+			"speech": "Not only it. You can slide 2 pitches up or 3 pitches down as well."
+		},
+		{
+			"person": "child",
+			"speech": "I tried to make twice-slide-up harmony! This is more cheerful than twice-slide-down harmony!"
+		},
+		{
+			"person": "teacher",
+			"speech": "I think so too. Let's try to make your favorite harmony!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[{"pitch":"A3","unitNote":8,"start":8,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":6,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":16,"extension":1},{"pitch":"F3","unitNote":8,"start":18,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":20,"extension":1},{"pitch":"E3","unitNote":8,"start":22,"extension":1}],"D3":[{"pitch":"D3","unitNote":8,"start":24,"extension":1},{"pitch":"D3","unitNote":8,"start":26,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":28,"extension":3}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson5",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 0, 31 ]
+  ]
+}

@@ -1,0 +1,65 @@
+﻿{
+  "title": "使い方1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "こんにちは!"
+    },
+    {
+      "person": "child",
+      "speech": "こんにちは!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "MelOnを使ってくれてありがとう。まずは、レッスンの受け方を教えていくよ。"
+    },
+    {
+      "person": "child",
+      "speech": "はーい！"
+    },
+    {
+      "person": "teacher",
+      "speech": "今回君たちに教えるのは、「なぞって音楽づくり」というレッスンだ。"
+    },
+    {
+      "person": "child",
+      "speech": "音楽を「なぞる」って、どういうことですか？"
+    },
+    {
+      "person": "teacher",
+      "speech": "このお話の終わりに、楽譜がある。　その楽譜には、白いとうめいな音符がいくつか用意されているんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "分かった、それをクリックして、なぞればいいんだね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "その通り、よく分かったね！　それではさっそくやってみよう！"
+    },
+    {
+      "person": "child",
+      "speech": "はーい！　・・・なぞり終わりました！"
+    },
+    {
+      "person": "child",
+      "speech": "あれ？楽譜の下に「次へ」と書いてあるボタンがあるけど、まだ押せないみたいだよ？"
+    },
+    {
+      "person": "teacher",
+      "speech": "音符をぜんぶなぞり終わったら、楽譜の上にあるメロンのボタンを押して、作った音楽を再生しよう。"
+    },
+    {
+      "person": "child",
+      "speech": "あ、音楽の再生が終わったら、「次へ」ボタンが光った！　これで次へ進めるね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "よくできました！　さあ、君も「なぞって音楽づくり」をやってみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":0}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方1-2",
+  "passNext": true
+}

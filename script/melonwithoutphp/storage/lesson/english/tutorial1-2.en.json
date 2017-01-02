@@ -1,0 +1,53 @@
+﻿{
+  "title": "Tutorial1-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "OK, let's challenge Filling in Blank Making Music!"
+		},
+		{
+			"person": "child",
+			"speech": "Filling in Blank Making Music?"
+		},
+		{
+			"person": "teacher",
+			"speech": "In Filling in Blank Making Music, There are some blue clear boxes are prepared not only white clear notes which we saw in Tracing Making Music."
+		},
+		{
+			"person": "child",
+			"speech": "Now, I can write the notes in the boxes as well."
+		},
+		{
+			"person": "teacher",
+			"speech": "Yes. In Filling in Blank Making Music, you should just write one more note in the blue boxes."
+		},
+		{
+			"person": "teacher",
+			"speech": "And, you can write as many notes as you like."
+		},
+		{
+			"person": "child",
+			"speech": "Yeah! I'll write a lot of notes!"
+		},
+		{
+			"person": "teacher",
+			"speech": "Wait, you should consider about relations among the other notes, and make the music while thinking about what kind of note is suitable the position."
+		},
+		{
+			"person": "child",
+			"speech": "Yes... I think it's fun and we can make music more beautifully!"
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right!　Let's try the Filling in Blank Making Music!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":0}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial2-1",
+  "passNext": true,
+  "unitNote": 8,
+  "blank": [
+    [ 6, 6 ]
+  ]
+}

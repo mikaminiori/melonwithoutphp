@@ -1,0 +1,50 @@
+﻿{
+  "title": "使い方2-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "次は、音符の消しかたを教えるよ。"
+    },
+    {
+      "person": "child",
+      "speech": "この消しゴムの絵がかいてあるボタンが使えそうだね…"
+    },
+    {
+      "person": "teacher",
+      "speech": "するどいね。楽譜の上の消しゴムのボタンを押すと、「鉛筆モード」から「消しゴムモード」に変わるんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "このまま音符をクリックすれば、その音符が消えるんだね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "その通り！　さらに、音符をクリックしたままマウスを動かしても、音符を消すことができるよ。"
+    },
+    {
+      "person": "child",
+      "speech": "ほんとだ！　音符を消すの楽しい！"
+    },
+    {
+      "person": "teacher",
+      "speech": "消すのに夢中になって、ぜんぶ消してしまわないように気を付けてね。"
+    },
+    {
+      "person": "child",
+      "speech": "はーい！　音符を書かないと、音楽づくりができないもんね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "さあ、君も「消しゴムモード」を上手く使って、音楽づくりをしよう！" 
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":0,"extension":3},{"pitch":"G3","unitNote":8,"start":10,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":8,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方3",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 4, 7 ],
+    [12, 15]
+  ]
+}

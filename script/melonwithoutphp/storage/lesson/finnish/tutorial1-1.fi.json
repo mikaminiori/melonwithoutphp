@@ -1,0 +1,65 @@
+﻿{
+  "title": "Aihe1",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Hei!"
+    },
+    {
+      "person": "child",
+      "speech": "Hei!!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Kiitos että käytät MelOn ohjelmaa! Aivan ensimmäiseksi opetan sinulle ohjelma toimii."
+    },
+    {
+      "person": "child",
+      "speech": "Jes!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Ensimmäinen oppitunti on nimeltään Säveltäminen jäljittelemällä."
+    },
+    {
+      "person": "child",
+      "speech": "Mitä tarkoitat jäljittelemisellä?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Tämän tarinan lopussa on sävelasteikko, jossa on valkoisella merkittynä muutamia nuotteja."
+    },
+    {
+      "person": "child",
+      "speech": "Nyt ymmärsin! Voin siis valita valkoiset nuotit ja säveltää siten! "
+    },
+    {
+      "person": "teacher",
+      "speech": "Juuri niin, hyvä! Valitse nyt valkoiseksi merkityt nuotit!"
+    },
+    {
+      "person": "child",
+      "speech": "Selvä! … Nyt se on tehty!"
+    },
+    {
+      "person": "child",
+      "speech": "Mitä? Sävelasteikon alapuolella on SEURAAVA nappi, mutta siitä ei tapahdu mitään!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Paina ensin melonin muotoista nappia, jolloin soitat säveltämäsi musiikin. Sen jälkeen voit painaa SEURAAVA nappia."
+    },
+    {
+      "person": "child",
+      "speech": "Ahaa! Musiikin soittamisen jälkeen SEURAAVA nappi vaihtaa väriä! Nyt siis voin mennä seuraavaan tehtävään."
+    },
+    {
+      "person": "teacher",
+      "speech": "Hienoa! Yritä nyt siis jäljitellä musiikkia!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":2,"extension":0}],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Aihe1-2",
+  "passNext": true
+}

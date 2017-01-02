@@ -1,0 +1,92 @@
+★デバッグ機能
+非デバッグモード時に、ブレークポイントの設置が可能。
+Firefox、Chromeでも、ソースマップを生成することで、開発ツール上で可能。
+つまり、コンソールログが使える！
+ソースマップにより、TSファイルも見ることができ、TSファイル上でブレークポイントを設置できる。
+
+★camera
+こいつを動かすことができる。サイズを設定しないと、画面にはまって動けない。
+deadzone指定（Rectangleによる）、カメラのサイズをセットしないと動かない？（おそらくワールドの広さに従っているから）
+オブジェクトをフォローできる！再生バーフォローすればよくね？どうせカメラは外に出られない
+
+★render
+ゲームインスタンス生成時、create,update等と同様に、renderも使える。
+デバッグなどの表示に用い、update関数と同様に、ループの中で動いている。
+
+★Phaser.State
+ステート（シーン）遷移をサポートする。
+Phaser.Stateを継承したクラスを作る。
+コンストラクタの中でsuper()を打つ
+create, update, renderなどの関数を書く。
+this.game.state.add("GameRunningState", GameRunningState, false);
+のように、ステートの名前と、クラスを渡す。後ろのは、trueだと先に書かれてるやつから動き始める。デフォルトでfalse
+this.game.state.start("StartState")で、開始のステートを選択できる。
+
+★listenerContext
+this.input.onTap.addOnce()などの、コールバック関数を引数に取る関数は、
+listenerContextを引数に取るが、これはコールバックの中でのthisを決められるものである。
+
+★ロードバー
+Phaser.Game.load.setPreloadSprite(this.preloadBar);
+Phaser.Spriteを渡すことで、そいつの横幅がロードバーになる。
+プリロードが終わると、恐らく自動で遷移する。
+
+★スプライトの中心座標は、デフォルトで左上！
+
+★キーボードインプット
+onDownは長押しには使えない模様…
+長押しはif+isDownするしかないのか…
+Ctrl、Altの同時押し判定ができるらしい。
+Signalによるコールバック関数には、Event引数、eが渡されるらしい。このe,いろいろ使える！
+
+★マウスインプット
+Phaser.Game.inputに、activePointerだのmousePointer、Pointer（タッチ）
+だのいろいろ入ってる。
+ポインタがスプライトの中に入ってるかを判定する関数はない？
+var isInSprite = (pointer: Phaser.Point, sprite: Phaser.Sprite) => {
+            return pointer.x >= sprite.x &&
+                pointer.x <= sprite.x + sprite.width &&
+                pointer.y >= sprite.y &&
+                pointer.y <= sprite.y + sprite.height;
+        }みたいな（anchorも判定に入れないとだけど…）
+
+input.addMoveCallback(function)
+で、マウスになんかあった時に関数を呼び出せる。
+コールバック関数には、Pointer, x, y, downStateが渡される。
+downStateは、最初の1回しかTRUEにならない。
+
+クラス自身のメソッドをコールバックとして呼び出したい場合は、
+this.game.input.onDown.add(SimpleGame.prototype.mouseDown, this);
+のように、クラス名とprototypeを通してメソッドを呼び出し、thisの扱いを自分自身に設定する
+なお、コールバック関数には、eventが渡される。
+onHoldで長押し判定。長押しの時間は、holdRateプロパティで変えられる。これも1回のみ
+
+★タッチ
+activePointerはPCでしか動かないみたい…pointer1~10を使おう！
+
+★Events
+Spriteには、inputEnabledプロパティが設定されている。これをTrueにすることで、events
+オブジェクトが動く。（なぜデフォルトでオフなのか）
+すると、events.onInputDown.add()でコールバック関数をセットできたりする。
+onDestroyなども、使えそう。
+なんか使えそうな関数を見つけたら、addすべし！
+
+★Sound
+同時再生は可能だもん！
+今気づいたけど、Gameを生成するMainクラス的なやつって、プロパティ初期化できないのね。
+あ、コンストラクタで作るからいけないんだ。スタートメソッド的なやつでスタートすれば良い。
+onPlayプロパティとかある。（これも一回しか動かない…継続は、やはりupdate関数を使う。）
+なぜファイル名が配列になってるのかと思いきや、同じサウンドのファイルを複数読み込み、
+再生できなかった時は別の拡張子のファイルで再生するためのものだった！
+フェードアウト関数が作らなくてもある！！
+
+★SpriteやGroupは拡張しなさい！
+
+★やっぱり音符はグループ化しておこう。あとでなんかいいことあるかも
+
+★オブジェクトのクラスを知りたいときは、object1 instanceof ClassName　でboolが返る
+
+★オブジェクトのdeltaXやdeltaYが0より小さいか大きいかで、どちらに動いているかが分かる。
+
+★DOM
+スプライトDOMに設定できないかな…

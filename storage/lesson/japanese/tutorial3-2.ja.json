@@ -1,6 +1,7 @@
 ﻿{
   "title": "使い方3-2",
   "mode": "filling",
+  "video":"storage/lesson/video/MelOn3-2.mp4",
   "lecture": [
     {
       "person": "child",
@@ -36,7 +37,7 @@
     }
   ],
   "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":0,"extension":3}],"B3":[{"pitch":"B3","unitNote":8,"start":4,"extension":0}],"A3":[{"pitch":"A3","unitNote":8,"start":5,"extension":0}],"G3":[{"pitch":"G3","unitNote":8,"start":6,"extension":1}],"F3":[],"E3":[],"D3":[],"C3":[],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
-  "next": "使い方4",
+  "next": "使い方5",
   "passNext": false,
   "unitNote": 8,
   "blank": [

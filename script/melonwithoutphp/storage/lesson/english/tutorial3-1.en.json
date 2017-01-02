@@ -1,0 +1,41 @@
+﻿{
+  "title": "Tutorial3",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Well, do you get used to making music? " 
+		},
+		{
+			"person": "child",
+			"speech": "Yeah, making music is fun!! "
+		},
+		{
+			"person": "teacher",
+			"speech": "That's good! This time, I'll teach you how to change the musical instrument so that you can express something better."
+		},
+		{
+			"person": "child",
+			"speech": "Oh, I can change the musical instrument? That sounds fun! Then, I can see the button which has piano picture."
+		},
+		{
+			"person": "teacher",
+			"speech": "Yes. If you click the button, you can see a list of musical instruments."
+		},
+		{
+			"person": "teacher",
+			"speech": "You can play the music with the musical instrument which you chose."
+		},
+		{
+			"person": "child",
+			"speech": "♪...I played the music with changing musical instrument. It sounds quite difficult because I changed the musical instrument!"
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! So, let's choose the musical instrument which suits to something you want to express!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":14,"extension":1}],"B3":[{"pitch":"B3","unitNote":8,"start":12,"extension":1}],"A3":[{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":8,"extension":1}],"F3":[{"pitch":"F3","unitNote":8,"start":6,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":4,"extension":1}],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Tutorial3-2",
+  "passNext": false
+}

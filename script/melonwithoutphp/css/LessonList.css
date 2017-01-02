@@ -1,0 +1,51 @@
+﻿body {
+    background-color: lemonchiffon;
+}
+
+#logo {
+    display: block;
+    margin: 20px auto 20px auto;
+    width: 300px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#choose {
+    margin: 20px auto 20px auto;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: "Franklin Gothic Medium",sans-serif;
+}
+
+#lessonList {
+    margin: 0 auto;
+    border: 5px;
+    width: 900px;
+    font-family: "Franklin Gothic Medium",sans-serif;
+}
+
+#lessonList th {
+    background-color: orange;
+    font-size: 30px;
+}
+
+#lessonList td {
+    font-size: 25px;
+    background-color: lightgreen;
+}
+
+.title {
+    width: 300px;
+}
+
+.description {
+    width: 600px;
+}

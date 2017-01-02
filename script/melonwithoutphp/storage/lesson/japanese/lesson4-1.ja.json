@@ -1,0 +1,45 @@
+﻿{
+  "title": "音楽のつくり方4",
+  "mode": "tracing",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "今回は、ハーモニーについて教えるよ。"
+		},
+		{
+			"person": "child",
+			"speech": "このメロディーをもっとすごくしたいな。"
+		},
+		{
+			"person": "teacher",
+			"speech": "じゃあ、元のメロディーを2つ下に移動させたものを、いっしょにならしてみよう。"
+		},
+		{
+			"person": "child",
+			"speech": "ああ、これはすごいや！"
+		},
+		{
+			"person": "teacher",
+			"speech": "そう、これがハーモニーさ。"
+		},
+		{
+			"person": "child",
+			"speech": "ハーモニーをいっしょにならすことで、かんたんにメロディーをすごくできるね！"
+		},
+		{
+			"person": "teacher",
+			"speech": "そうだね。でも、1つしか下に移動させないものをいっしょにならすのは、あまりよくないんだ。"
+		},
+		{
+			"person": "child",
+			"speech": "なるほど、たしかに、1つしか下に移動させていないものより、2つ下に移動させたものの方が良いね。"
+		},
+		{
+      "person": "teacher",
+      "speech": "その通り！さあ、ハーモニーをつくってみよう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[{"pitch":"A3","unitNote":8,"start":8,"extension":1},{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":1},{"pitch":"G3","unitNote":8,"start":6,"extension":1},{"pitch":"G3","unitNote":8,"start":12,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":16,"extension":1},{"pitch":"F3","unitNote":8,"start":18,"extension":1},{"pitch":"F3","unitNote":8,"start":8,"extension":1},{"pitch":"F3","unitNote":8,"start":10,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":20,"extension":1},{"pitch":"E3","unitNote":8,"start":22,"extension":1},{"pitch":"E3","unitNote":8,"start":4,"extension":1},{"pitch":"E3","unitNote":8,"start":6,"extension":1},{"pitch":"E3","unitNote":8,"start":12,"extension":3}],"D3":[{"pitch":"D3","unitNote":8,"start":24,"extension":1},{"pitch":"D3","unitNote":8,"start":26,"extension":1},{"pitch":"D3","unitNote":8,"start":16,"extension":1},{"pitch":"D3","unitNote":8,"start":18,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":28,"extension":3},{"pitch":"C3","unitNote":8,"start":20,"extension":1},{"pitch":"C3","unitNote":8,"start":22,"extension":1}],"B2":[{"pitch":"B2","unitNote":8,"start":24,"extension":1},{"pitch":"B2","unitNote":8,"start":26,"extension":1}],"A2":[{"pitch":"A2","unitNote":8,"start":0,"extension":1},{"pitch":"A2","unitNote":8,"start":2,"extension":1},{"pitch":"A2","unitNote":8,"start":28,"extension":3}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "音楽のつくり方4-2",
+  "passNext": false
+}

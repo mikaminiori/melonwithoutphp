@@ -38,7 +38,7 @@
   "使い方4": {
     "url": "storage/lesson/japanese/tutorial4-1.ja.json",
     "description": "保存と読み込みのやりかた",
-    "public": true
+    "public": false
   },
 
   "使い方4-2": {

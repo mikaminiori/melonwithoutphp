@@ -1,0 +1,57 @@
+﻿{
+  "title": "Lesson1-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "This time, let's feel the difference of up-beat and down-beat. "
+    },
+    {
+      "person": "child",
+      "speech": "Beat?"
+    },
+    {
+      "person": "teacher",
+      "speech": "You can hear tambourine sound when you play the music. It is beat."
+    },
+    {
+      "person": "child",
+      "speech": "I see! Then, what are up and down? "
+    },
+    {
+      "person": "teacher",
+      "speech": "Up-beat means the middle of beat and beat. And down-beat means just beat."
+    },
+    {
+      "person": "teacher",
+      "speech": "You can hear completely different rhythm depends on the note positions because of up-beat and down-beat."
+    },
+    {
+      "person": "child",
+      "speech": "I found that, the first example and the second example is similar, but only start position is different."
+    },
+    {
+      "person": "child",
+      "speech": "I feel completely different!"
+    },
+    {
+      "person": "teacher",
+      "speech": "OK! And I'll show you the rhythm pattern of 3 : 3 : 2 of third example. This is very useful!"
+    },
+    {
+      "person": "child",
+      "speech": "This is my favorite rhythm!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Great! Let's find your favorite rhythm and make your original rhythm as fourth example!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":1},{"pitch":"C3","unitNote":8,"start":11,"extension":1},{"pitch":"C3","unitNote":8,"start":13,"extension":1},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":19,"extension":2},{"pitch":"C3","unitNote":8,"start":22,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Lesson2",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 24, 31 ]
+  ]
+}

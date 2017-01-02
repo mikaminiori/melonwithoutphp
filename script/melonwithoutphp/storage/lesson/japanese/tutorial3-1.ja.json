@@ -1,0 +1,41 @@
+﻿{
+  "title": "使い方3",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "さあ、そろそろ音楽づくりにもなれてきたかな？" 
+    },
+    {
+      "person": "child",
+      "speech": "うん、音楽づくりってたのしいね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "それは良かった！　今回は、もっと幅広い表現ができるように、楽器の変えかたを教えるね。"
+    },
+    {
+      "person": "child",
+      "speech": "楽器が変えられるの？　楽しそう！　そういえば、楽譜の右下に、「ピアノ」って書いてあるボタンがあるね。"
+    },
+    {
+      "person": "teacher",
+      "speech": "そうだね。そのボタンをクリックすると、楽器リストが出てくるよ。"
+    },
+    {
+      "person": "teacher",
+      "speech": "楽器リストの中から、好きな楽器をクリックしてえらぶと、その楽器でメロディを再生することができるんだ。"
+    },
+    {
+      "person": "child",
+      "speech": "♪…楽器を変えて再生してみたよ！　楽器が変わるだけで、聞こえ方が大きくちがうね！"
+    },
+    {
+      "person": "teacher",
+      "speech": "その通り！　さあ、君も自分の表現したいものに合った楽器を選ぼう！"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[{"pitch":"C4","unitNote":8,"start":14,"extension":1}],"B3":[{"pitch":"B3","unitNote":8,"start":12,"extension":1}],"A3":[{"pitch":"A3","unitNote":8,"start":10,"extension":1}],"G3":[{"pitch":"G3","unitNote":8,"start":8,"extension":1}],"F3":[{"pitch":"F3","unitNote":8,"start":6,"extension":1}],"E3":[{"pitch":"E3","unitNote":8,"start":4,"extension":1}],"D3":[{"pitch":"D3","unitNote":8,"start":2,"extension":1}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "使い方3-2",
+  "passNext": false
+}

@@ -1,0 +1,42 @@
+﻿{
+  "title": "Lesson5-2",
+  "mode": "filling",
+  "lecture": [
+		{
+			"person": "teacher",
+			"speech": "Next, let's try to make music using repetition and small change."
+		},
+		{
+			"person": "child",
+			"speech": "I tried to make music using repetition. But it's boring..."
+		},
+		{
+			"person": "teacher",
+			"speech": "Then, try to add small changes to the repeated phrase."
+		},
+		{
+			"person": "child",
+			"speech": "Then, I'll try to change C→D→E→F→G to C→D→E→F→A."
+		},
+		{
+			"person": "child",
+			"speech": "Oh, It's interesting and not boring!"
+		},
+		{
+			"person": "teacher",
+			"speech": "That's right! let's try to add small changes to your repeated phrase!"
+		},
+		{
+			"person": "teacher",
+			"speech": "And, this is the end of lesson! Thank you for your taking lessons!!"
+		}
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":4,"extension":3}],"F3":[{"pitch":"F3","unitNote":8,"start":3,"extension":0}],"E3":[{"pitch":"E3","unitNote":8,"start":2,"extension":0},{"pitch":"E3","unitNote":8,"start":22,"extension":1}],"D3":[{"pitch":"D3","unitNote":8,"start":1,"extension":0},{"pitch":"D3","unitNote":8,"start":19,"extension":2}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":32,"extension":7}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": null,
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 8, 15 ],
+    [ 24, 31 ]
+  ]
+}

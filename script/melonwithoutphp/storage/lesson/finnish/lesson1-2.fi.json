@@ -1,0 +1,57 @@
+﻿{
+  "title": "Oppitunti1-2",
+  "mode": "filling",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Tällä kertaa opitaan ero nousevalla ja laskevalla syke."
+    },
+    {
+      "person": "child",
+      "speech": "Syke?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Kun soitat musiikkia, kuulet tamburiinin äänen. Se kertoo syke."
+    },
+    {
+      "person": "child",
+      "speech": "Ahaa! Entä mitä on sitten nousevalla ja laskevalla?"
+    },
+    {
+      "person": "teacher",
+      "speech": "Nousevalla syke tarkoittaakeskellä syke ja syke. Ja laskevalla syke tarkoittaa vain voittaa."
+    },
+    {
+      "person": "teacher",
+      "speech": "Huomaat hyvin erilaisen tahdin riippuen nuotin paikasta koska nousevalla tahdilla ja laskevalla syke."
+    },
+    {
+      "person": "child",
+      "speech": "Huomasin että ensimmäinen ja toinen esimerkki ovat samanlaisia, paitsi että lähtötilanne on erilainen."
+    },
+    {
+      "person": "child",
+      "speech": "Ja ne tuntuvatkin ihan erilaisilta!"
+    },
+    {
+      "person": "teacher",
+      "speech": "Hyvä! Nyt näytän sinulle kolmannen esimerkin 3 : 3 : 2 tahdin. Se on tosi hyödyllinen!"
+    },
+    {
+      "person": "child",
+      "speech": "Tämä on minun suosikki tahtini."
+    },
+    {
+      "person": "teacher",
+      "speech": "Hienoa! Nyt kun löysit suosikki tahdin, niin tee oma tahtisi neljäntenä esimerkkinä!"
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[],"F3":[],"E3":[],"D3":[],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":1},{"pitch":"C3","unitNote":8,"start":2,"extension":1},{"pitch":"C3","unitNote":8,"start":4,"extension":1},{"pitch":"C3","unitNote":8,"start":6,"extension":1},{"pitch":"C3","unitNote":8,"start":9,"extension":1},{"pitch":"C3","unitNote":8,"start":11,"extension":1},{"pitch":"C3","unitNote":8,"start":13,"extension":1},{"pitch":"C3","unitNote":8,"start":15,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":2},{"pitch":"C3","unitNote":8,"start":19,"extension":2},{"pitch":"C3","unitNote":8,"start":22,"extension":1}],"B2":[],"A2":[],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Oppitunti2",
+  "passNext": false,
+  "unitNote": 8,
+  "blank": [
+    [ 24, 31 ]
+  ]
+}

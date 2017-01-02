@@ -1,0 +1,41 @@
+﻿{
+  "title": "Oppitunti3",
+  "mode": "tracing",
+  "lecture": [
+    {
+      "person": "teacher",
+      "speech": "Tällä kertaa tehdään kappale käyttäen muitakin kuin DO ja SOL sointuja."
+    },
+    {
+      "person": "child",
+      "speech": "Miten se tehdään?"
+    },
+    {
+      "person": "teacher",
+      "speech": "On kolme eri tapaa käyttää kaikkia sävelkorkeuksia."
+    },
+    {
+      "person": "teacher",
+      "speech": "Ensimmäinen on siirtyä seuraavaan sävelkorkeuteen. Esimerkiksi SO → RE → MI tai DO → SI → LA."
+    },
+    {
+      "person": "teacher",
+      "speech": "Toinen tapa on pysyä samassa sävelkorkeudessa. Esimerkiksi RE → RE → RE tai SI → SI → SI."
+    },
+    {
+      "person": "teacher",
+      "speech": "Kolmas tapa on hypätä kauempana olevaan sävelkorkeuteen. Esimerkiksi DO → MI → LA tai DO → LA → RE."
+    },
+    {
+      "person": "child",
+      "speech": "Nuotteja voi käyttää tosi monella eri tavalla."
+    },
+    {
+      "person": "teacher",
+      "speech": "Juuri niin. Kokeile seuraavaksi kaikkia näitä eri tapoja."
+    }
+  ],
+  "music": {"C5":[],"B4":[],"A4":[],"G4":[],"F4":[],"E4":[],"D4":[],"C4":[],"B3":[],"A3":[],"G3":[{"pitch":"G3","unitNote":8,"start":22,"extension":1}],"F3":[],"E3":[{"pitch":"E3","unitNote":8,"start":2,"extension":1},{"pitch":"E3","unitNote":8,"start":17,"extension":0}],"D3":[{"pitch":"D3","unitNote":8,"start":1,"extension":0},{"pitch":"D3","unitNote":8,"start":8,"extension":1},{"pitch":"D3","unitNote":8,"start":10,"extension":0},{"pitch":"D3","unitNote":8,"start":11,"extension":0},{"pitch":"D3","unitNote":8,"start":21,"extension":0}],"C3":[{"pitch":"C3","unitNote":8,"start":0,"extension":0},{"pitch":"C3","unitNote":8,"start":4,"extension":0},{"pitch":"C3","unitNote":8,"start":16,"extension":0},{"pitch":"C3","unitNote":8,"start":19,"extension":0},{"pitch":"C3","unitNote":8,"start":24,"extension":7}],"B2":[{"pitch":"B2","unitNote":8,"start":5,"extension":0},{"pitch":"B2","unitNote":8,"start":12,"extension":1},{"pitch":"B2","unitNote":8,"start":14,"extension":0},{"pitch":"B2","unitNote":8,"start":15,"extension":0}],"A2":[{"pitch":"A2","unitNote":8,"start":6,"extension":1},{"pitch":"A2","unitNote":8,"start":18,"extension":0},{"pitch":"A2","unitNote":8,"start":20,"extension":0}],"G2":[],"F2":[],"E2":[],"D2":[],"C2":[]},
+  "next": "Oppitunti3-2",
+  "passNext": false
+}

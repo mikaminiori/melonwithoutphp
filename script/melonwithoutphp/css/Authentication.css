@@ -1,0 +1,87 @@
+﻿body {
+    background-color: lemonchiffon;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+}
+
+.error {
+	color: red;
+	text-align: center;
+}
+
+#logo {
+    display: block;
+    margin: 20px auto 20px auto;
+    width: 300px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.input {
+	margin-left: 160px;
+}
+
+#loginTypo {
+	margin: 0 auto;
+	padding: 20px;
+	width: 700px;
+	color: greenyellow;
+	font-style: oblique;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px gray;
+	text-align: center;
+	border-style: solid;
+	border-color: dimgray;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: orange;
+}
+
+#registTypo {
+	margin: 0 auto;
+	padding: 20px;
+	width: 700px;
+	color: greenyellow;
+	font-style: oblique;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px gray;
+	text-align: center;
+	border-style: solid;
+	border-color: dimgray;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: orange;
+}
+
+#authContainer {
+	margin: 20px auto;
+	padding: 20px;
+	width: 700px;
+	color: greenyellow;
+	text-shadow: 1px 1px 1px gray;
+	border-style: solid;
+	border-color: dimgray;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: orange;
+}
+
+input[type=submit]  {
+	display: block;
+	margin: 0 auto;
+	width: 180px;
+	height: 35px;
+	color: orange;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px gray;
+	text-align: center;
+	border-style: solid;
+	border-color: dimgray;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: greenyellow;
+	cursor: pointer;
+}
